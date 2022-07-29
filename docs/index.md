@@ -6,6 +6,7 @@ nav_order: 1
 # My website
 <html>
 <head>
+<style>
 .button {
   border: none;
   color: white;
