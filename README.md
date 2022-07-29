@@ -19,7 +19,7 @@ This is an unordered list fuck you
 - thing1
 - thing2
 
-#PLAY MY GAME LOOK AT IT ITS SO GOOOD
+# PLAY MY GAME LOOK AT IT ITS SO GOOOD
 [pogchamp](https://victorghys.itch.io/little-dice)
 
 # Image time lets goooo
@@ -27,8 +27,13 @@ This is an unordered list fuck you
 ![image of the cute cat referenced earlier](https://user-images.githubusercontent.com/64915846/181686405-5805ca30-52dd-4d32-ac2b-910d92ffe355.png)
 
 ![](images/yarn.png)
-
-#you like coding, WEVE GOT CODINGGGGGGGGGGGGGGGGGGGGGGTGGG
+# A table for your mom because she is fat (likes food)
+| cum police  |  drippling |
+|---|---|
+|  owo | uwu  |
+# A toilet for you because you are poopy
+:toilet:
+# You like coding, WEVE GOT CODINGGGGGGGGGGGGGGGGGGGGGGTGGG
 ```
   if(deez nuts)
   {
