@@ -1,7 +1,7 @@
 title: Ryan Webpage 
 description: my personal portfolio # EDIT: Fill this in
 
-remote_theme: marsceill/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
 github_repo_url: "https://gamerhangout.github.io/" # EDIT: REPLACE WITH THE URL TO YOUR WEBPAGE
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
