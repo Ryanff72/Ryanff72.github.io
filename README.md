@@ -27,3 +27,10 @@ This is an unordered list fuck you
 ![image of the cute cat referenced earlier](https://user-images.githubusercontent.com/64915846/181686405-5805ca30-52dd-4d32-ac2b-910d92ffe355.png)
 
 ![](images/yarn.png)
+
+#you like coding, WEVE GOT CODINGGGGGGGGGGGGGGGGGGGGGGTGGG
+'''if(deez nuts) <br>
+  { <br>
+    have sex with your mom <br>
+  } <br>
+'''
