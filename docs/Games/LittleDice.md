@@ -17,7 +17,7 @@ Made in just **48 hours** for the [GMTK Game Jam 2022](https://itch.io/jam/gmtk-
 ### Our Team <br>
 **Programming:** [Victor Ghys](https://victorghys.github.io/) and Ryan Feller<br>
 **Art:** [JestQuest](https://jackc05.github.io/Portfolio/portfolio.html) and [Lilly Martin](https://lillymartin.myportfolio.com/)<br>
-**Sound:** [Thomas Thoreau](https://www.thomasthoreau.com/game)<br>
+**Sound:** [Thomas Thoreau](https://www.thomasthoreau.com)<br>
 
 ### Which Parts are My Work?
 During this jam, I came up with the concept, programmed the rolling, cannon attachment, grapple attachment, and helped with the punching mechanic. I also designed puzzles 2, 3, 4, 5, 6, 7, and 9.
