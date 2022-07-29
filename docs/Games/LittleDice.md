@@ -10,9 +10,9 @@ nav_order: 2
 Made in just 48 hours for the [GMTK Game Jam 2022](https://itch.io/jam/gmtk-jam-2022)!
 
 ### Screenshots
-[gif of dice attachment](images/dicee.gif) <br>
-[image 1 of dice attachment](images/die.png) <br>
-[image 2 of dice attachment](images/diecannon.png) <br>
+![gif of dice attachment](images/dicee.gif) <br>
+![image 1 of dice attachment](images/die.png) <br>
+![image 2 of dice attachment](images/diecannon.png) <br>
 
 ### Our Team <br>
 **Programming:** Victor Ghys and Ryan Feller<br>
