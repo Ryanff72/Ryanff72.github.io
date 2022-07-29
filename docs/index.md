@@ -4,4 +4,5 @@ layout: default
 nav_order: 1
 ---
 
-Welcome to my website!
+#Home
+Hello, my name is Ryan Feller and this is my website! Here you can find my portfolio, resume, contact information, and more!
