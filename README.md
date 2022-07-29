@@ -29,8 +29,9 @@ This is an unordered list fuck you
 ![](images/yarn.png)
 
 #you like coding, WEVE GOT CODINGGGGGGGGGGGGGGGGGGGGGGTGGG
-'''if(deez nuts) <br>
-  { <br>
-    have sex with your mom <br>
-  } <br>
-'''
+```
+  if(deez nuts)
+  {
+    SexWithYourMom();
+  }
+```
