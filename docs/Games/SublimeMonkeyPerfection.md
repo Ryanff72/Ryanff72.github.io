@@ -26,7 +26,7 @@ This game is inspired by the popular francise Monkey Kong. The game is about a c
 
 We Hope you Enjoy! <br>
 
-### What I worked on
+### Which Parts are My Work?
 While working on this project, my responsibilities included all of the programming, all of the art excluding the art for the bounce pads and skull which is shown on a few levels, and mechanical and level design. I also was responsible for organizing the team and making sure that everyone was involved did a good job.
 
 [Download](https://drive.google.com/uc?export=download&id=1Z_ti38R9KcHBKNoxFFolsxnrn3RD4mF_){: .btn .btn-purple}
