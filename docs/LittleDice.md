@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Sublime Monkey Perfection
+parent: Games
+nav_order: 2
+---
 
 
 # Little Dice
