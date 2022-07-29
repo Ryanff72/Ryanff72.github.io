@@ -1,4 +1,9 @@
-## Page 1
+---
+title: Epic Website Page One
+layout:default
+nav_order: 1
+---
+# This is Page One
 description: welcome to page one
 
 You can use the [editor on GitHub](https://github.com/gamerhangout/gamerhangout.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
