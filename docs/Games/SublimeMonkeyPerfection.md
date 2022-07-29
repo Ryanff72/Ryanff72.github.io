@@ -13,11 +13,11 @@ Dash, J u m p, and Bounce through the levels to sacrifice yourself!
 
 
 ### Credits
-Programming, Art, Design, Project Lead: Ryan
+**Programming, Art, Design, Project Lead:** Ryan Feller
 
-Art, Design: Dusty
+**Art, Design:** Dusty Webb
 
-Design, Music, a little programming: Michael
+**Design, Music:** Michael Grief
 
 
 
