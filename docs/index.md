@@ -1,4 +1,4 @@
-title: Page One
+## Page 1
 description: welcome to page one
 
 You can use the [editor on GitHub](https://github.com/gamerhangout/gamerhangout.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
