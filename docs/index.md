@@ -56,12 +56,8 @@ This is an unordered list fuck you
 # Image time lets goooo
 ![image of the cute cat referenced earlier](https://user-images.githubusercontent.com/64915846/181686405-5805ca30-52dd-4d32-ac2b-910d92ffe355.png)
 ![](images/yarn.png)
-# A table for your mom because she is fat (likes food)
-| cum police  |  drippling |
-|---|---|
-|  owo | uwu  |
 # A toilet for you because you are poopy
-:toilet:
+:toilet: :sad:
 # You like coding, WEVE GOT CODINGGGGGGGGGGGGGGGGGGGGGGTGGG
 ```
   if(deez nuts)
