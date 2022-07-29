@@ -4,7 +4,8 @@ layout: default
 nav_order: 1
 ---
 # My website
-
+<html>
+<head>
 .button {
   border: none;
   color: white;
