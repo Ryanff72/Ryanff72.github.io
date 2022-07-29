@@ -2,7 +2,6 @@ title: Ryan Webpage
 description: my personal portfolio # EDIT: Fill this in
 
 remote_theme: pmarsceill/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
-color_schme: dark
 github_repo_url: "https://gamerhangout.github.io/" # EDIT: REPLACE WITH THE URL TO YOUR WEBPAGE
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
@@ -22,6 +21,7 @@ gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "View this content on GitHub"
 gh_edit_repository: "https://github.com/iSci-3A12/intro-github-markdown" # EDIT: ADD THE URL TO YOUR GITHUB REPO
 gh_edit_branch: "master" # the branch that your docs is served from
+color_schme: dark
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
