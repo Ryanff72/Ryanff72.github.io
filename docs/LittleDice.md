@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sublime Monkey Perfection
+title: Little Dice
 parent: Games
 nav_order: 2
 ---
