@@ -1,7 +1,7 @@
 ---
-title: Epic Website Page One
+title: Home
 layout: default
 nav_order: 1
 ---
 
-website
+Welcome to my website!
