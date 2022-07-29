@@ -1,9 +1,8 @@
 ---
 title: Epic Website Page Two
 layout:default
-nav_order: 2
+nav_order: 1
 ---
-
 
 You can use the [editor on GitHub](https://github.com/gamerhangout/gamerhangout.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
