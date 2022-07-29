@@ -6,11 +6,12 @@ nav_order: 1
 ---
 # Sublime Monkey Perfection
 Dash, J u m p, and Bounce through the levels to sacrifice yourself!
+### Screenshots
+[gif1] (images/js9jOT.gif)
+[gif2] (images/JvNel4.gif)
 
 
-
-
-Credits
+### Credits
 Programming, Art, Design, Project Lead: Ryan
 
 Art, Design: Dusty
