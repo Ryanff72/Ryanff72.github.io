@@ -12,9 +12,9 @@ Everything is from scratch heheheheheheheh i wanna cry
 Thanks to my art teacher [Kyle Darnell](https://www.youtube.com/user/KyleDarnellPrints) for the idea!
 
 ## Screenshots
-![beat brawl image 1](beatBrawl1.png)
-![beat brawl image 2](beatBrawl2.png)
-![beat brawl image 3](beatBrawl3.png)
+![beat brawl image 1](images/beatBrawl1.png)
+![beat brawl image 2](images/beatBrawl2.png)
+![beat brawl image 3](images/beatBrawl3.png)
 
 ## Which Parts are My Work?
 All of it!
