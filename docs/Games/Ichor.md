@@ -22,7 +22,7 @@ Ichor was started with the intent of becoming a fps inspired by greek culture. U
 And of course, the game would have never gotten to its current state if it wasn't for all the wonderful playtesters who assisted in finding many of the broken bits of the game!
 
 ## Which Parts are My Work?
-During this project, I did most of the 3d modeling (excluding the space themed rocket launcher, P250, and the CZ75), the sole programmer, and the project lead.
+During this project, I did most of the 3d modeling (excluding the space themed rocket launcher, P250, and the CZ75), as well as acting as the sole programmer and the project lead.
 
 [Download](https://drive.google.com/uc?export=download&id=11jMJeMAUZ5czp-dnOEANcYfCzUEGHqOu){: .btn .btn-purple }
 
