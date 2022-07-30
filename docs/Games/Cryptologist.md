@@ -8,12 +8,12 @@ nav_order: 9
 # Cryptologist
 
 ## About
- Submitted to [Historically Accurate Game Jam #3](https://itch.io/jam/historically-accurate-3) and [Finally Finish Something 2021](https://itch.io/jam/finally-finish-something-2021), Cryptologist is a cool and groovy code breaking game. You, the player, work in a computer lab for your nation's army, and attempt to decipher the language of your enemies. Click Satisfying switches as you clack your way to victory, one code at a time, testing your reaction time and planning skills. Can you make it to round 151? 
+Submitted to [Historically Accurate Game Jam #3](https://itch.io/jam/historically-accurate-3) and [Finally Finish Something 2021](https://itch.io/jam/finally-finish-something-2021), Cryptologist is a cool and groovy code breaking game. You, the player, work in a computer lab for your nation's army, and attempt to decipher the language of your enemies. Click Satisfying switches as you clack your way to victory, one code at a time, testing your reaction time and planning skills. Can you make it to round 151? 
  
- ## Screenshots
- ![The Console](images/crypt.png)
+## Screenshots
+![The Console](images/crypt.png)
  
- ## Credits
+## Credits
 **Ryan Feller:** Programming
 **BeeWizard:** Art
 Music from [Kevin MacLeod](https://www.youtube.com/channel/UCSZXFhRIx6b0dFX3xS8L1yQ)
