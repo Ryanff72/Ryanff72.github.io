@@ -7,4 +7,4 @@ nav_order: 1
 # Home <br>
 
 # Ryan Feller
-{: .fs-9 }
+{: .fs-20 }
