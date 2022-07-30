@@ -15,11 +15,11 @@ Idol's Tower is a quirky, Egyptian themed dungeon crawler all about sacrifice. M
 ![idols tower 3](images/idolsTower3.png) <br>
 
 ## Credits
-Art: Ryan Feller
+**Art:** Ryan Feller
 
-Programming: [Hristo Kalinov](https://hkalinov.itch.io/), [sengbschbep](https://sengbschbep.itch.io/), and Ryan Feller
+**Programming:** [Hristo Kalinov](https://hkalinov.itch.io/), [sengbschbep](https://sengbschbep.itch.io/), and Ryan Feller
 
-Music: [Peter Kaku](https://peterkaku.com/)
+**Music:** [Peter Kaku](https://peterkaku.com/)
 
 
 ## Which Parts are My Work?
