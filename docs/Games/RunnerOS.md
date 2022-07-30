@@ -7,16 +7,16 @@ nav_order: 3
 
 # Runner OS
 
-### About
+## About
 Embark on a whimsical adventure on none other than a computer dekstop overrun by viruses! On this platform game you control Aley, a friendly orange guy that's trying to deliver a message while getting relentlessly attacked by malicious pop ups. Don't panic though! You'll also get windows of different kinds that'll either help or hinder your quest depending on how you use them.
 
 This game was created in just 48 hours for the GMTK 2021 Jam!
 
-### Screenshots
+## Screenshots
 ![runnerosimg1](images/runneros1.png)
 ![runnerosimg2](images/runneros2.png)
 ![runnerosimg3](images/runneros3.png)
-### Credits
+## Credits
 **Programming:** [Propergandev](https://twitter.com/Propergandev) and Ryan Feller
 
 **Art:** [Val](https://twitter.com/drowsyval) and [JestQuest](https://jackc05.github.io/Portfolio/portfolio.html)
