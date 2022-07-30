@@ -21,4 +21,5 @@ This game was created in just 48 hours for the [GMTK 2021 Game Jam](https://itch
 
 **Art:** [Val](https://twitter.com/drowsyval), Mlem and [JestQuest](https://jackc05.github.io/Portfolio/portfolio.html)
 
+[Download](https://drive.google.com/uc?export=download&id=188jAR9XaQv1vsbx4LzbOGi47qtX5KZ5M){: .btn .btn-purple }
 <iframe frameborder="0" src="https://itch.io/embed/1085165?bg_color=eeeeee&amp;fg_color=3f2832&amp;link_color=3f2832&amp;border_color=3f2832" width="552" height="167"><a href="https://abhorrentpropaganda.itch.io/runneros">RunnerOS by AbhorrentPropaganda, Gamer Hangout, Mlem, JestQuest, val</a></iframe>
