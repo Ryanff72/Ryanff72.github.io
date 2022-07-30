@@ -16,7 +16,7 @@ Chit Chat is a conversation simulation / point and click game. Made for the [Gam
 ![chat2](images/chat2.png)
 
 ## Which Parts are My Work?
-I did all of the art, sound, music, and programming for this game.
+All of it!
 
 [Download](https://drive.google.com/uc?export=download&id=/1gvrwBz12rMhVQIMr1o3LIVpSpgxNXRV4){: .btn .btn-purple}
 
