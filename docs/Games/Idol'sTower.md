@@ -23,7 +23,7 @@ Idol's Tower is a quirky, Egyptian themed dungeon crawler all about sacrifice. M
 
 
 ## Which Parts are My Work?
-For this game, I acted as the project lead, artist, and a programmer.
+For this game, I acted as the project lead, artist, and a programmer. As a programmer, I worked on the character controls, the boss fight, the enemies, and the level mechanics.
 
 [Download](https://drive.google.com/uc?export=download&id=1QdwKD2IMYQurodDoey6Qr2Rap3yM3Dec){: .btn .btn-purple }
 
