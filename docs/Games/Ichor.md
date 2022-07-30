@@ -15,9 +15,9 @@ Ichor was started with the intent of becoming a fps inspired by greek culture. U
 ![Ichor Image 3](images/ichor3.png) <br>
 
 ## Credits
-**3d Modelers:** Jackie D., Len erd, Ryan Feller and Owen Metsger
-**2d Artists:** [JestQuest](https://jackc05.github.io/Portfolio/portfolio.html)
-**Programming:** Ryan Feller
+**3d Modelers:** Jackie D., Len erd, Ryan Feller and Owen Metsger <br>
+**2d Artists:** [JestQuest](https://jackc05.github.io/Portfolio/portfolio.html) <br>
+**Programming:** Ryan Feller <br>
 
 And of course, the game would have never gotten to its current state if it wasn't for all the wonderful playtesters who assisted in finding many of the broken bits of the game!
 
