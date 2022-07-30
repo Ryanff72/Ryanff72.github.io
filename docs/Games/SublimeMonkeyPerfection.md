@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Sublime Monkey Perfection
 ## About
-Dash, Jump, and Bounce through the levels to sacrifice yourself!
+Dash, Jump, and Bounce through the levels to sacrifice yourself! Made by members of the [Signature School](https://signature.edu/) programming club!
 ## Screenshots
 ![gif1](images/js9jOT.gif) <br>
 ![gif2](images/JvNeI4.gif) <br>
