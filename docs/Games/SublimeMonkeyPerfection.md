@@ -14,11 +14,11 @@ Dash, Jump, and Bounce through the levels to sacrifice yourself!
 
 
 ## Credits
-**Programming, Art, Design, Project Lead:** Ryan Feller
+**Ryan Feller** - Programming, Art, Design, Project Lead
 
-**Art, Design:** Dusty Webb
+**Dusty Webb** - Art, Design
 
-**Design, Music:** Michael Grief
+**Michael Grief** - Design, Music Michael Grief
 
 
 
