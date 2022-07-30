@@ -10,9 +10,9 @@ nav_order: 8
 Idol's Tower is a quirky, Egyptian themed dungeon crawler all about sacrifice. Made in a week for [Blackthornprod GAME JAM #3](https://itch.io/jam/blackthornprod-game-jam-3) Zoom in to buff yourself, but sacrifice your precious vision. Slay mummies, mages, and even a gigantic Idol on your search for the Golden Ankh!
 
 ## Screenshots
-![idols tower 1](idolsTower1) <br>
-![idols tower 2](idolsTower2) <br>
-![idols tower 3](idolsTower3) <br>
+![idols tower 1](images/idolsTower1.png) <br>
+![idols tower 2](images/idolsTower2.png) <br>
+![idols tower 3](images/idolsTower3.png) <br>
 
 ## Credits
 Art: Ryan Feller
