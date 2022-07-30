@@ -5,15 +5,15 @@ parent: Games
 nav_order: 1
 ---
 # Sublime Monkey Perfection
-### About
+## About
 Dash, Jump, and Bounce through the levels to sacrifice yourself!
-### Screenshots
+## Screenshots
 ![gif1](images/js9jOT.gif) <br>
 ![gif2](images/JvNeI4.gif) <br>
 ![image1](images/cN7U1o.png) <br>
 
 
-### Credits
+## Credits
 **Programming, Art, Design, Project Lead:** Ryan Feller
 
 **Art, Design:** Dusty Webb
@@ -27,7 +27,7 @@ This game is inspired by the popular francise Monkey Kong. The game is about a c
 
 We Hope you Enjoy! <br>
 
-### Which Parts are My Work?
+## Which Parts are My Work?
 While working on this project, my responsibilities included all of the programming, all of the art excluding the art for the bounce pads and skull which is shown on a few levels, and mechanical and level design. I also was responsible for organizing the team and making sure that everyone was involved did a good job.
 
 [Download](https://drive.google.com/uc?export=download&id=1Z_ti38R9KcHBKNoxFFolsxnrn3RD4mF_){: .btn .btn-purple}
