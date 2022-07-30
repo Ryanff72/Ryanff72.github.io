@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Sublime Monkey Perfection
 ## About
-Dash, Jump, and Bounce through the levels to sacrifice yourself!
+Dash, Jump, and Bounce through the levels to sacrifice yourself! Made by members of the [Signature School](https://www.signature.edu/) programming club!
 ## Screenshots
 ![gif1](images/js9jOT.gif) <br>
 ![gif2](images/JvNeI4.gif) <br>
@@ -19,13 +19,6 @@ Dash, Jump, and Bounce through the levels to sacrifice yourself!
 **Dusty Webb** - Art, Design
 
 **Michael Grief** - Design, Music Michael Grief
-
-
-
-Info
-This game is inspired by the popular francise Monkey Kong. The game is about a choice between control and chaos, the Funky Monkey or the Chunky Monkey. This mechanic informed the rest of our design choices! We also knew that we wanted to keep the game accessible to everyone, so we added key remapping and assist mode, despite the smaller scale of the game (: For those who want an extra challenge, you can take on 3 bonus levels unlocked only after completing the 10 level campaign. 
-
-We Hope you Enjoy! <br>
 
 ## Which Parts are My Work?
 While working on this project, my responsibilities included all of the programming, all of the art excluding the art for the bounce pads and skull which is shown on a few levels, and mechanical and level design. I also was responsible for organizing the team and making sure that everyone was involved did a good job.
