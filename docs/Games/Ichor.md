@@ -9,8 +9,12 @@ nav_order: 5
 ## About
 Ichor was started with the intent of becoming a fps inspired by greek culture. Unfortunately, I became dissatisfied with the progress I was making and decided to call it quits. This is the first game I have made, but I did have some prior programming and 3d modeling knowledge. Forgive me if anything is broken, as version is only half-polished.
 
-## Credits
+## Screenshots
+![Ichor Image 1](images/ichor1.png)
+![Ichor Image 2](images/ichor2.png)
+![Ichor Image 3](images/ichor3.png)
 
+## Credits
 **3d Modelers:** Jackie D., Len erd, Ryan Feller and Owen Metsger
 **2d Artists:** [JestQuest](https://jackc05.github.io/Portfolio/portfolio.html)
 **Programming:** Ryan Feller
