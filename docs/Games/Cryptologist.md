@@ -14,9 +14,9 @@ Submitted to [Historically Accurate Game Jam #3](https://itch.io/jam/historicall
 ![The Console](images/crypt.png)
  
 ## Credits
-**Ryan Feller:** Programming
-**BeeWizard:** Art
-Music from [Kevin MacLeod](https://www.youtube.com/channel/UCSZXFhRIx6b0dFX3xS8L1yQ)
+**Ryan Feller:** Programming <br>
+**BeeWizard:** Art<br>
+Music from [Kevin MacLeod](https://www.youtube.com/channel/UCSZXFhRIx6b0dFX3xS8L1yQ)<br>
 
 [Download](https://drive.google.com/uc?export=download&id=1ZwMed8JO2xFDrtBTEjw9Iu01jK0YgbU1){: .btn .btn-purple }
 
