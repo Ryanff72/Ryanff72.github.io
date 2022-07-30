@@ -31,4 +31,4 @@ plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minimal
