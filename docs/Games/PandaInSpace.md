@@ -10,9 +10,9 @@ nav_order: 7
 Made for the [Beginner's Circle Jam #3](https://itch.io/jam/beginners-circle-jam-3)! Different planets have different gravity, right? So I decided to make the gravity change depending on the level, as well as implementing mechanics that I thought would be fun with low gravity.
 
 ## Screenshots
-![First Panda Image](images/pandainspace1.png)
-![Second Panda Image](images/pandainspace2.png)
-![Third Panda Image](images/pandainspace3.png)
+![First Panda Image](images/pandainspace1.png) <br>
+![Second Panda Image](images/pandainspace2.png) <br>
+![Third Panda Image](images/pandainspace3.png) <br>
 
 ## Which Parts are My Work?
 All of it!
