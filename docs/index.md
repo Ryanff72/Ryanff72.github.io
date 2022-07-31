@@ -17,7 +17,7 @@ I wrote this research paper for AP Research and for my EE. I decided to perform 
 
 ## Games
 
-At the time of writing, I have completed 9 game projects. 
+At the time of writing, I have completed 9 game projects. More are in the works!
 
 ### Little Dice
 ![lttlediceimg](Games/images/littledice.jpg){: width="250" } <br>
