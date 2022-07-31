@@ -20,7 +20,7 @@ I wrote this research paper for AP Research and for my EE. I decided to perform 
 At the time of writing, I have completed 9 game projects. 
 
 ### Little Dice
-![lttlediceimg](Games/images/littledice.png) <br>
+![lttlediceimg](Games/images/littledice.jpg) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/LittleDice.html){: .btn .btn-purple }
 
 ### Beat Brawl
