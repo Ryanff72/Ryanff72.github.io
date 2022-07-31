@@ -40,7 +40,7 @@ At the time of writing, I have completed 9 game projects.
 [Find out More About This Game](https://ryanff72.github.io/Games/Idol'sTower.html){: .btn .btn-purple }
 
 ### Cryptologist
-![cryptologistimg](Games/images/cryptologis.png) <br>
+![eeee](Games/images/cryptologis.PNG) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/Cryptologist.html){: .btn .btn-purple }
 
 ### Panda in Space
