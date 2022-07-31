@@ -9,8 +9,6 @@ nav_order: 1
 ## About
 **Hello! My name is Ryan Feller, and I am a student, programmer, and game developer!** <br> This is my website portfolio, where you can find some of my personal projects, contact info, and more!
 
-# My Work
-
 ## Research
 
 ### Accessibiliy vs Enjoyment in Digital games
@@ -46,8 +44,16 @@ At the time of writing, I have completed 9 game projects.
 [Find out More About This Game](https://ryanff72.github.io/Games/Cryptologist.html){: .btn .btn-purple }
 
 ### Panda in Space
-![cryptologistimg](games/images/cryptologist.png) <br>
-[Find out More About This Game](https://ryanff72.github.io/Games/Cryptologist.html){: .btn .btn-purple }
+![spacepandaimg](games/images/pandainspace.png) <br>
+[Find out More About This Game](https://ryanff72.github.io/Games/PandaInSpace.html){: .btn .btn-purple }
+
+### Chit Chat
+![chitchatmg](games/images/chitchat.png) <br>
+[Find out More About This Game](https://ryanff72.github.io/Games/ChitChat.html){: .btn .btn-purple }
+
+### Ichor
+![chitchatmg](games/images/ichor.png) <br>
+[Find out More About This Game](https://ryanff72.github.io/Games/Ichor.html){: .btn .btn-purple }
 
 
 
