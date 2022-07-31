@@ -20,39 +20,39 @@ I wrote this research paper for AP Research and for my EE. I decided to perform 
 At the time of writing, I have completed 9 game projects. 
 
 ### Little Dice
-![lttlediceimg](games/images/littledice.png) <br>
+![lttlediceimg](Games/images/littledice.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/LittleDice.html){: .btn .btn-purple }
 
 ### Beat Brawl
-![beatbrawlimg](games/images/beatbrawl.png) <br>
+![beatbrawlimg](Games/images/beatbrawl.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/BeatBrawl.html){: .btn .btn-purple }
 
 ### Sublime Monkey Perfection
-![smpimg](games/images/sublimemonkeyperfection.png) <br>
+![smpimg](Games/images/sublimemonkeyperfection.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/SublimeMonkeyPerfection.html){: .btn .btn-purple }
 
 ### RunnerOS
-![runnerosimg](games/images/runneros.png) <br>
+![runnerosimg](Games/images/runneros.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/RunnerOS.html){: .btn .btn-purple }
 
 ### Idol's Tower
-![runnerosimg](games/images/idolstower.png) <br>
+![runnerosimg](Games/images/idolstower.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/Idol'sTower.html){: .btn .btn-purple }
 
 ### Cryptologist
-![cryptologistimg](games/images/cryptologist.png) <br>
+![cryptologistimg](Games/images/cryptologist.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/Cryptologist.html){: .btn .btn-purple }
 
 ### Panda in Space
-![spacepandaimg](games/images/pandainspace.png) <br>
+![spacepandaimg](Games/images/pandainspace.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/PandaInSpace.html){: .btn .btn-purple }
 
 ### Chit Chat
-![chitchatmg](games/images/chitchat.png) <br>
+![chitchatmg](Games/images/chitchat.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/ChitChat.html){: .btn .btn-purple }
 
 ### Ichor
-![chitchatmg](games/images/ichor.png) <br>
+![chitchatmg](Games/images/ichor.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/Ichor.html){: .btn .btn-purple }
 
 
