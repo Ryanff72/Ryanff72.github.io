@@ -7,12 +7,16 @@ nav_order: 1
 # Home <br>
 
 ## About
-**Hello! My name is Ryan Feller, and I am a student, programmer, and game developer!** I have held an interest in game design for a long time, and in 2019 I finally decided it was time to learn how to make games! Since then, I have gained experience working in Blender, Unreal Engine, Unity, and Visual Studio! I enjoy working on projects with others, and have learned a lot through making games. I have worked developers, programmers, and artists from around the world through game jam competitions. I also enjoy working with members of my school’s programming club on projects.
+**Hello! My name is Ryan Feller, and I am a student, programmer, and game developer!** 
 
 # My Work
 
 ## Research
 
 ### Accessibiliy vs Enjoyment in Digital games
-I wrote this research paper for AP Research and for my EE. I decided to perform this research in an attempt to contribute to the ongoing discourse of accessibility in games. You can download the PDF by pressing the button below.
+I wrote this research paper for AP Research and for my EE. I decided to perform this research in an attempt to contribute to the ongoing discourse of accessibility in games. You can download the PDF by pressing the button below. <br>
 [Download](https://drive.google.com/uc?export=download&id=1RrOEMaKWy14KTsGucp8P5pxpRyqkCQDx){: .btn .btn-purple }
+
+## Games
+
+At the time of writing, I have completed 9 game projects.
