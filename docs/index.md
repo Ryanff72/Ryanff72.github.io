@@ -7,7 +7,7 @@ nav_order: 1
 # Home <br>
 
 ## About
-**Hello! My name is Ryan Feller, and I am a student, programmer, and game developer!** 
+**Hello! My name is Ryan Feller, and I am a student, programmer, and game developer!** <br> This is my website portfolio, where you can find some of my personal projects, contact info, and more!
 
 # My Work
 
@@ -19,4 +19,4 @@ I wrote this research paper for AP Research and for my EE. I decided to perform 
 
 ## Games
 
-At the time of writing, I have completed 9 game projects.
+At the time of writing, I have completed 9 game projects. 
