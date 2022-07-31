@@ -48,7 +48,7 @@ At the time of writing, I have completed 9 game projects.
 [Find out More About This Game](https://ryanff72.github.io/Games/PandaInSpace.html){: .btn .btn-purple }
 
 ### Chit Chat
-![chitchatmg](Games/images/chitchat.png) <br>
+![chitchatmg](Games/images/chitchat.gif) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/ChitChat.html){: .btn .btn-purple }
 
 ### Ichor
