@@ -22,28 +22,32 @@ I wrote this research paper for AP Research and for my EE. I decided to perform 
 At the time of writing, I have completed 9 game projects. 
 
 ### Little Dice
-![lttlediceimg](images/littledice.png) <br>
+![lttlediceimg](games/images/littledice.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/LittleDice.html){: .btn .btn-purple }
 
 ### Beat Brawl
-![beatbrawlimg](images/beatbrawl.png) <br>
+![beatbrawlimg](games/images/beatbrawl.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/BeatBrawl.html){: .btn .btn-purple }
 
 ### Sublime Monkey Perfection
-![smpimg](images/sublimemonkeyperfection.png) <br>
+![smpimg](games/images/sublimemonkeyperfection.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/SublimeMonkeyPerfection.html){: .btn .btn-purple }
 
 ### RunnerOS
-![runnerosimg](images/runneros.png) <br>
+![runnerosimg](games/images/runneros.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/RunnerOS.html){: .btn .btn-purple }
 
 ### Idol's Tower
-![runnerosimg](idolstower.png) <br>
+![runnerosimg](games/images/idolstower.png) <br>
 [Find out More About This Game](https://ryanff72.github.io/Games/Idol'sTower.html){: .btn .btn-purple }
 
+### Cryptologist
+![cryptologistimg](games/images/cryptologist.png) <br>
+[Find out More About This Game](https://ryanff72.github.io/Games/Cryptologist.html){: .btn .btn-purple }
 
-
-
+### Panda in Space
+![cryptologistimg](games/images/cryptologist.png) <br>
+[Find out More About This Game](https://ryanff72.github.io/Games/Cryptologist.html){: .btn .btn-purple }
 
 
 
