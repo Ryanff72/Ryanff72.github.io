@@ -2,6 +2,7 @@ title: Ryan Feller # EDIT: Fill this in
 description: My work and more! # EDIT: Fill this in
 
 remote_theme: pmarsceill/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
+color_scheme: dark
 github_repo_url: "https://ryanff72.github.io/" # EDIT: REPLACE WITH THE URL TO YOUR WEBPAGE
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
