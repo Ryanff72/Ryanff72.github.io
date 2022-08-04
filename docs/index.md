@@ -13,7 +13,7 @@ nav_order: 1
 
 ### Accessibiliy vs Enjoyment in Digital games
 I wrote this research paper for AP Research and for my EE. I decided to perform this research in an attempt to contribute to the ongoing discourse of accessibility in games. You can download the PDF by pressing the button below. <br>
-[Download](https://drive.google.com/uc?export=download&id=1RrOEMaKWy14KTsGucp8P5pxpRyqkCQDx){: .btn .btn-purple }
+[Download](https://drive.google.com/uc?export=download&id=1ZAxUnQMYsQVpj-AcFLIKaqDHjkpyJ0dt){: .btn .btn-purple }
 
 ## Games
 
