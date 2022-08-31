@@ -9,7 +9,7 @@ has_toc: false
 **Hello! My name is Ryan Feller, and I am a student, programmer, and game developer!** <br>
 This section is to help you get a better idea of who I am, what past endeavors I have undertaken, and more!
 
-# School
+# Schooling
 <br>
 ![image](https://user-images.githubusercontent.com/64915846/187589567-319a8122-e3ac-4032-be06-09d1eb5502ee.png){: width="450" }<br>
 ### Memorial High School <br> 2019 - 2021
