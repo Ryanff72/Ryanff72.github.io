@@ -2,7 +2,6 @@
 layout: default
 title: About Me
 nav_order: 2
-has_children: true
 has_toc: false
 ---
 # About Me <br>
@@ -13,7 +12,7 @@ This section is to help you get a better idea of who I am, what past endeavors I
 ## School
 
 ### Memorial High School <br> 2019 - 2021
-I begun high school at Reitz Memorial High School in Evansville, Indiana. While I was there, I participated in Varsity Cross Country and Swimming. Starting out, I really enjoyed the freedom offered by high school, but eventually I came to the realization that Memorial's environment was not for me. Seeking a hightened education and a better environment, I transferred out after finishing my Sophomore year.
+I begun high school at Reitz Memorial High School in Evansville, Indiana. Starting out, I really enjoyed the freedom offered by high school, but eventually I came to the realization that Memorial's environment was not for me. Seeking a hightened education and a better environment, I transferred out after finishing my Sophomore year.
 
 ### Signature High School <br> 2021 - 2023
 Signature School may be one of the greatest challenges I have faced, and I love it for that. My teachers are all incredible, and care deeply about each and every one of their students. Signature has also given me opportunities I would not be able to find anywhere else - the opportunity to create and lead programming club, take countless AP and IB classes, and find a place to call my own with the academically oriented student base. Sorry if this sounds too much like a Yelp review! I just really love being a student here. I am currently a senior at Signature School.
@@ -28,7 +27,16 @@ During my summer Sophomore year, I worked as a Grocer at Fresh Thyme in Evansvil
 
 ## Extracirriculars
 
-
+### National Honor Society
+I was nominated to be in the NHS my Junior year of high school, and stayed in it throughout my senior year.
+### Programming Club
+In my Junior year of high school, I founded and was elected president of the programming club. As a club, we worked on many projects, including [Sublime Monkey Perfection](https://ryanff72.github.io/Games/SublimeMonkeyPerfection.html). Working with and teaching others has consistenly been an extremely rewarding experience.
+### Game Jams
+I begun doing game jams my sophomore year of high school. Game jams are competitions which give you a limited amount of time to create a game. Participating in game jams has given me the opportunity to work with extremely talented individuals (professionals in some cases) in the game development world. I made [Little Dice](https://ryanff72.github.io/Games/LittleDice.html), [Runner OS](https://ryanff72.github.io/Games/RunnerOS.html), [Chit Chat](https://ryanff72.github.io/Games/ChitChat.html), [Panda in Space](https://ryanff72.github.io/Games/PandaInSpace.html), [Idol's Tower](https://ryanff72.github.io/Games/Idol'sTower.html), and [Cryptologist](https://ryanff72.github.io/Games/Cryptologist.html) for game jams.
+### Swimming
+### Cross Country
+### 
+### St. John's Youth Group
 
 
 [Linkedin](https://www.linkedin.com/in/ryan-feller-b66783220/){: .btn .btn-purple } <br>
