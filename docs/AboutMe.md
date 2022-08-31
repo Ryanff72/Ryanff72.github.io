@@ -46,7 +46,7 @@ I have participated in St. John's Youth Group since I was in 6th grade. I've mad
 ### Archery
 During my freshman and sophomore years of high school, I participated in Memorial High School's archery team. The peak of my Archery career was going to state with my freinds Abby and Reagan during my sophomore year.
 ### Piano
-Beginning in August of my senior year, I have taken piano lessons. My favority genre of music to play is Jazz!
+Beginning in August of my senior year, I have taken piano lessons. My favorite genre of music to play is Jazz!
 ### Art Club
 I participated in the Signature School Art Club my junior and senior years. Relaxing after school and working on crafts always has helped me to relax in the face of stress.
 
