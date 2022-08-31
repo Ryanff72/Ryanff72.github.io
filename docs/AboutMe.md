@@ -34,9 +34,14 @@ In my Junior year of high school, I founded and was elected president of the pro
 ### Game Jams
 I begun doing game jams my sophomore year of high school. Game jams are competitions which give you a limited amount of time to create a game. Participating in game jams has given me the opportunity to work with extremely talented individuals (professionals in some cases) in the game development world. I made [Little Dice](https://ryanff72.github.io/Games/LittleDice.html), [Runner OS](https://ryanff72.github.io/Games/RunnerOS.html), [Chit Chat](https://ryanff72.github.io/Games/ChitChat.html), [Panda in Space](https://ryanff72.github.io/Games/PandaInSpace.html), [Idol's Tower](https://ryanff72.github.io/Games/Idol'sTower.html), and [Cryptologist](https://ryanff72.github.io/Games/Cryptologist.html) for game jams.
 ### Swimming
+I participated in swim team at Memorial High School my freshman year. My team won sectionals and I lettered. My specialty was distance events, especially the 200yd and 500yd freestlye.
 ### Cross Country
-### 
+I participated in the cross country team at Memorial High School my freshman and sophomore years. I lettered and was a varsity runner. My best time for a 5k was an 18:17! I also participated in Signature High School's cross country club my junior year.
+### Track
 ### St. John's Youth Group
+### Art Club
+### Archery
+### Piano
 
 
 [Linkedin](https://www.linkedin.com/in/ryan-feller-b66783220/){: .btn .btn-purple } <br>
