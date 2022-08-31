@@ -10,12 +10,10 @@ has_toc: false
 This section is to help you get a better idea of who I am, what past endeavors I have undertaken, and more!
 
 # School
-![image](https://user-images.githubusercontent.com/64915846/187589567-319a8122-e3ac-4032-be06-09d1eb5502ee.png){: width="450" }
-### Memorial High School <br> 2019 - 2021
+![image](https://user-images.githubusercontent.com/64915846/187589567-319a8122-e3ac-4032-be06-09d1eb5502ee.png){: width="450" }<br>### Memorial High School <br> 2019 - 2021
 I begun high school at Reitz Memorial High School in Evansville, Indiana. Starting out, I really enjoyed the freedom offered by high school, but eventually I came to the realization that Memorial's environment was not for me. Seeking a hightened education and a better environment, I transferred out after finishing my Sophomore year.
 
-![image](https://user-images.githubusercontent.com/64915846/187589658-766b82d9-652c-410e-9395-80832c44db1b.png){: width="450" }
-### Signature High School <br> 2021 - 2023
+![image](https://user-images.githubusercontent.com/64915846/187589658-766b82d9-652c-410e-9395-80832c44db1b.png){: width="450" }<br>### Signature High School <br> 2021 - 2023
 Signature School may be one of the greatest challenges I have faced, and I love it for that. My teachers are all incredible, and care deeply about each and every one of their students. Signature has also given me opportunities I would not be able to find anywhere else - the opportunity to create and lead programming club, take countless AP and IB classes, and find a place to call my own with the academically oriented student base. Sorry if this sounds too much like a Yelp review! I just really love being a student here. I am currently a senior at Signature School.
 
 # Job Experience
