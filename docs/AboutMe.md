@@ -20,7 +20,10 @@ Signature School may be one of the greatest challenges I have faced, and I love 
 
 ## Job Experience
 
-### Lifeguarding at Rolling Hills Country Club
+### Lifeguarding at Rolling Hills Country Club <br> June 2020 - September 2020, June 2021 - September 2021
+During the summer of my Freshman and Sophomore years of high school, I worked as a lifeguard at Rolling Hills Country Club in Newburgh, Indiana. My responsibilities were to keep the pool clean, keep swimmers safe, and work the front desk. While working I was able to improve my ability to work with others and interact with customers.
+
+## Grocer at Fresh Thyme <br> 
 
 
 
