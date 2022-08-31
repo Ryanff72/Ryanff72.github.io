@@ -5,14 +5,14 @@ nav_order: 2
 has_children: true
 has_toc: false
 ---
-#About Me <br>
+# About Me <br>
 
 **Hello! My name is Ryan Feller, and I am a student, programmer, and game developer!** <br>
 This section is to help you get a better idea of who I am, what past endeavors I have taken, and more!
 
-##School
+## School
 
-###Memorial High School 
+### Memorial High School 
 I begun high school at Reitz Memorial High School in Evansville Indiana 
 
 [Linkedin](https://www.linkedin.com/in/ryan-feller-b66783220/){: .btn .btn-purple } <br>
