@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact Info
-nav_order: 3
+nav_order: 5
 ---
 
 [Linkedin](https://www.linkedin.com/in/ryan-feller-b66783220/){: .btn .btn-purple } <br>
