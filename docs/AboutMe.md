@@ -10,6 +10,7 @@ has_toc: false
 This section is to help you get a better idea of who I am, what past endeavors I have undertaken, and more!
 
 # School
+<br>
 ![image](https://user-images.githubusercontent.com/64915846/187589567-319a8122-e3ac-4032-be06-09d1eb5502ee.png){: width="450" }<br>
 ### Memorial High School <br> 2019 - 2021
 I begun high school at Reitz Memorial High School in Evansville, Indiana. Starting out, I really enjoyed the freedom offered by high school, but eventually I came to the realization that Memorial's environment was not for me. Seeking a hightened education and a better environment, I transferred out after finishing my Sophomore year.
