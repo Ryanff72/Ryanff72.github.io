@@ -7,7 +7,7 @@ nav_order: 1
 # Home <br>
 
 ## About
-**Hello! My name is Ryan Feller, and I am a student, programmer, and game developer!** <br> This is my website portfolio, where you can find some of my personal projects, contact info, and more!
+**Hello! My name is Ryan Feller, and I am a student, programmer, and game developer!** <br> This is my website portfolio, where you can find some of my personal projects, contact info, and more! <br>
 [More About Me](https://ryanff72.github.io/AboutMe.html){: .btn .btn-purple }
 
 ## Research
