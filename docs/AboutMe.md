@@ -7,7 +7,7 @@ has_toc: false
 # About Me <br>
 
 **Hello! My name is Ryan Feller, and I am a student, programmer, and game developer!** <br>
-This section is to help you get a better idea of who I am, what past endeavors I have taken, and more!
+This section is to help you get a better idea of who I am, what past endeavors I have undertaken, and more!
 
 ## School
 
@@ -38,10 +38,14 @@ I participated in swim team at Memorial High School my freshman year. My team wo
 ### Cross Country
 I participated in the cross country team at Memorial High School my freshman and sophomore years. I lettered and was a varsity runner. My best time for a 5k was an 18:17! I also participated in Signature High School's cross country club my junior year.
 ### Track
+I was a track runner my sophomore year at Memorial High School. I specialized in distance events such as the 1 and 2 mile.
 ### St. John's Youth Group
-### Art Club
+I have participated in St. John's Youth Group since I was in 6th grade. I've made many memories and friends working to help people in my community. During mission trips I worked at a local food bank, preschool, and house renovation project.
 ### Archery
+During my freshman and sophomore years of high school, I participated 
 ### Piano
+### Art Club
+I participated in the Signature School Art Club my junior and senior years. Relaxing after school and working on crafts always has helped me to relax in the face of stress.
 
 
 [Linkedin](https://www.linkedin.com/in/ryan-feller-b66783220/){: .btn .btn-purple } <br>
