@@ -8,9 +8,9 @@ nav_order: 1
 ## About
 Dash, Jump, and Bounce through the levels to sacrifice yourself! Made by members of the [Signature School](https://www.signature.edu/) programming club!
 ## Screenshots
-![gif1](images/js9jOT.gif) <br>
-![gif2](images/JvNeI4.gif) <br>
-![image1](images/cN7U1o.png) <br>
+![gif1](images/js9jOT.gif){: width="450" } <br>
+![gif2](images/JvNeI4.gif){: width="450" } <br>
+![image1](images/cN7U1o.png){: width="450" } <br>
 
 
 ## Credits
