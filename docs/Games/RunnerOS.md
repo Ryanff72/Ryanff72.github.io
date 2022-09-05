@@ -13,9 +13,9 @@ Embark on a whimsical adventure on none other than a computer dekstop overrun by
 This game was created in just 48 hours for the [GMTK 2021 Game Jam](https://itch.io/jam/gmtk-2021)!
 
 ## Screenshots
-![runnerosimg1](images/runneros1.png)
-![runnerosimg2](images/runneros2.png)
-![runnerosimg3](images/runneros3.png)
+![runnerosimg1](images/runneros1.png){: width="450" } <br>
+![runnerosimg2](images/runneros2.png){: width="450" } <br>
+![runnerosimg3](images/runneros3.png){: width="450" } <br>
 ## Credits
 **Programming:** [Propergandev](https://twitter.com/Propergandev) and Ryan Feller
 
