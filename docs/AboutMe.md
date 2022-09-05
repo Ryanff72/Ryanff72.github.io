@@ -19,6 +19,11 @@ I begun high school at Reitz Memorial High School in Evansville, Indiana. Starti
 ### Signature High School <br> 2021 - 2023
 Signature School may be one of the greatest challenges I have faced, and I love it for that. My teachers are all incredible, and care deeply about each and every one of their students. Signature has also given me opportunities I would not be able to find anywhere else - the opportunity to create and lead programming club, take countless AP and IB classes, and find a place to call my own with the academically oriented student base. Sorry if this sounds too much like a Yelp review! I just really love being a student here. I am currently a senior at Signature School.
 
+### Stats
+**GPA:** 4.07
+**SAT:** 1370
+**Unnoficial Transcript:**
+
 # Job Experience
 
 ### Lifeguarding at Rolling Hills Country Club <br> June 2020 - September 2020 <br> June 2021 - September 2021
