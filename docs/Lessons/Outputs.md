@@ -16,8 +16,6 @@ Try copy-pasting this code into your IDE! When you run your code, you will get a
 Now you try! Input something in the **argument** (the space between the parenthesis) and press run! Another important thing to note is the **speech marks**. Speech marks are necessary if you are outputting text. This means that if you wanted to output a number, then they would not be needed. <br><br>
 <code>
 print(243523720345)
-</code>
-
-
-
+</code><br><br>
+Try ouputting some funny phrases! See you in the next [lesson]()!
 
