@@ -17,5 +17,5 @@ Now you try! Input something in the **argument** (the space between the parenthe
 <code>
 print(243523720345)
 </code><br><br>
-Try ouputting some funny phrases! See you in the next [lesson]()!
+Try ouputting some funny phrases! See you in the next [lesson](https://ryanff72.github.io/Lessons/Variables.html)!
 
