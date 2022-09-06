@@ -24,8 +24,7 @@ In python, assigning variables is super easy to do. Let's say that we wanted to 
 </code><br><br>
 Now let's practice **outputting** a variable. First create a variable for **your name**. Then, put the variable in a **print()** argument. It should look like this:<br><br>
 <code>
-  name = "Robot"</code>                                  
+  name = "Robot"</code><br>                             
   <code>print(name) </code>
- <code> # this should print "Robot" in the console when you run the code!</code>
 <br><br>
-
+When ran, "Robot" will be printed in the console. Try the same thing with other data types, which you can find out more about [here](https://www.w3schools.com/python/python_datatypes.asp)! 
