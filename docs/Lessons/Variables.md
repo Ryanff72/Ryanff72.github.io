@@ -27,4 +27,4 @@ Now let's practice **outputting** a variable. First create a variable for **your
   name = "Robot"</code><br>                             
   <code>print(name) </code>
 <br><br>
-When ran, "Robot" will be printed in the console. Try the same thing with other data types, which you can find out more about [here](https://www.w3schools.com/python/python_datatypes.asp)! 
+When ran, "Robot" will be printed in the console. Try the same thing with other data types, which you can find out more about [here](https://www.w3schools.com/python/python_datatypes.asp)! See you in the next [lesson](https://ryanff72.github.io/Lessons/Inputs.html)!
