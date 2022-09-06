@@ -18,5 +18,14 @@ In python, assigning variables is super easy to do. Let's say that we wanted to 
 <code>
   name = "Robot"
 </code><br><br>
-**Be sure to pay attention to the quotation marks!** This is how you show the IDE that you are declaring a **string**. These quotation marks are **not** necessary when declaring other variable types, such as **booleans**, **integers**,
+**Be sure to pay attention to the quotation marks!** This is how you show the IDE that you are declaring a **string**. These quotation marks are **not** necessary when declaring other variable types, such as **booleans**, **integers**, and **floats**. Here is an example of assigning an **integer** variable.<br><br>
+<code>
+  muffinCount = 5
+</code><br><br>
+Now let's practice **outputting** a variable. First create a variable for **your name**. Then, put the variable in a **print()** argument. It should look like this:<br><br>
+<code>
+  name = "Robot"
+  print(name)
+  # this should print "Robot" in the console when you run the code!
+</code>
   
