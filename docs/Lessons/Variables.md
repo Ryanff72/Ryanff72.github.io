@@ -12,5 +12,11 @@ Variables are used to represent values. In Python, these variables can be:
   <li>Integers (1, ,-45, 11154, etc.)</li>
   <li>Strings (strings of characters or words, basically just any text)</li>
   <li>Floats (1, 1.123, -67.3245, etc. Basically non-integer values)</li>
-  <li>**And more!** For our purposes, the variable types listed above will be enough.</li>
+  <li>And more! For our purposes, the variable types listed above will be enough.</li>
 </ul>
+In python, assigning variables is super easy to do. Let's say that we wanted to create a variable for a name. We could accomplish this by using the form **name of variable** = **value held by the variable**. <br><br>
+<code>
+  name = "Robot"
+</code><br><br>
+**Be sure to pay attention to the quotation marks!** This is how you show the IDE that you are declaring a **string**. These quotation marks are **not** necessary when declaring other variable types, such as **booleans**, **integers**,
+  
