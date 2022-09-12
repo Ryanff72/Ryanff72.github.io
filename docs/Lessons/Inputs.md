@@ -15,7 +15,7 @@ When this code is ran, it will wait for input from the user. **While my variable
   print(variable)
 </code><br><br>
 This will repeat what the user typed back to them.<br><br>
-![image](https://user-images.githubusercontent.com/64915846/189567966-3e7eb4d2-4e2c-40dd-8e63-fd3078846016.png){: width="450" }
+![image](https://user-images.githubusercontent.com/64915846/189569441-49ea94ad-f6e9-4858-91ed-d27745bd1064.png){: width="450" }
 <br><br>
 It is **very important** to understand that putting the variable **variable** into the argument of **print()** is the same thing as writing:<br><br>
  print(input())
