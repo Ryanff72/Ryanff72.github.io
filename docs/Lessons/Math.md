@@ -14,7 +14,7 @@ When ran, this code will print "3" in the console. We can also use mathematical 
 <code>
   x = 10</code><br>
   <code>y = 5</code><br>
-  <code>print(x \* y)
+  <code>print(x * y)
 </code><br><br>
 What is unique about mathematical functions in programming is that they can be used for things other than numbers. Let's see what happens if we add two **strings** of characters together. 
 <br><br>
