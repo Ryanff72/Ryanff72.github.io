@@ -18,6 +18,7 @@ This will repeat what the user typed back to them.<br><br>
 ![image](https://user-images.githubusercontent.com/64915846/189569441-49ea94ad-f6e9-4858-91ed-d27745bd1064.png){: width="450" }
 <br><br>
 It is **very important** to understand that putting the variable **variable** into the argument of **print()** is the same thing as writing:<br><br>
+<code>
  print(input())
 </code><br><br>
 This is because your variable is simply storing whatever value **input()** holds. That's all! See you in the next [lesson](https://ryanff72.github.io/Lessons/Math.html)!
