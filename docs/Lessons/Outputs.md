@@ -9,7 +9,7 @@ nav_order: 1
 Outputs in Python are both very simple to learn and extremely important. Outputs are the primary method for you to present information to a user.
 An example of this is as follows: <br><br>
 <code>
-  print('Hello World!')
+  print("Hello World!")
 </code> <br><br>
 Try copy-pasting this code into your IDE! When you run your code, you will get a result like this: <br><br>
 ![image](https://user-images.githubusercontent.com/64915846/188502279-67424dbe-3f4f-4cf5-a0c6-34dbef2c39f2.png){: width="450"} <br><br>
