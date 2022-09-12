@@ -15,6 +15,6 @@ When this code is ran, it will wait for input from the user. After the user prov
   print(variable)
 </code><br><br>
 This will repeat what the user typed back to them.<br><br>
-![image](https://user-images.githubusercontent.com/64915846/189567966-3e7eb4d2-4e2c-40dd-8e63-fd3078846016.png)
+![image](https://user-images.githubusercontent.com/64915846/189567966-3e7eb4d2-4e2c-40dd-8e63-fd3078846016.png){: width="450" }
 <br><br>
 
