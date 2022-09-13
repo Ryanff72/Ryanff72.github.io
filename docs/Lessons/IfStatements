@@ -6,4 +6,4 @@ nav_order: 5
 ---
 
 # If Statements
-If statements can be used to check if a value is equal to another value.
+If statements can be used to check if a variable is equal to another value. 
