@@ -39,14 +39,15 @@ Using conditions, we can also check if one value is **greater than (>)**, **less
 <br><br>
 <code>print("I have 45 muffins. How many cookies do you have?")</code><br>
 <code>response = input()</code><br>
-<code>muffincount = int(response)</code><br>
+<code>if isdigit(response)</code><br>
+<code>response = int(response)</code><br>
+<code>else:</code><br>
+<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("I don't care about that! I want to know how many muffins you have!")</code><br><br>
 <code>if response == 45:</code><br>
 <code>  &nbsp;&nbsp;&nbsp;&nbsp;print("We have the same amount of muffins! This is awesome.")</code><br>
 <code>elif response > 45:</code><br>
 <code>  &nbsp;&nbsp;&nbsp;&nbsp;print("How did you get so many muffins?! Give me some NOW or i'll tell my mom!!!")</code><br>
 <code>elif response < 45:</code><br>
-<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("HAHAHA LOOSERRR!!! I have more muffins than you and I bet you are jealous.")</code><br>
-<code>else:</code><br>
-<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("I don't care about that! I want to know how many muffins you have!")</code><br><br>
+<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("HAHAHA LOOSERRR!!! I have more muffins than you and I bet you are jealous.")</code><br><br>
 ## Challenge 3
 Now that you've learned about conditions, try creating your own game show! You can make whatever sort of game show you want (death wager, comedy, guessing, etc). Just make something goofy and fun, and be sure to use this page for reference if you need help. Enjoy (:
