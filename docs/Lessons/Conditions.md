@@ -10,7 +10,7 @@ If statements can be used to check the value of one variable in relation to anot
 response based off of the user's input. When using **if** statements, we will use **two equal signs** to check if one value is equal to another. This is different than using one equal sign because one equal sign will set the first value equal to the second value (for example, if b = 2 and a = 0 and you write a = b, a will equal 2).
 <br><br>
 <code>print("Do you like my new hat? (respond with 'yes' or 'no')")</code><br>
-<code>response = input()</code><br>
+<code>response = input()</code><br><br>
 <code>if response == "yes":</code><br>
 <code>  &nbsp;&nbsp;&nbsp;&nbsp;print("Thank you very much!")</code><br>
 <code>if response == "no":</code><br>
@@ -25,7 +25,7 @@ Before you go on, try making a question with more than 2 possible responses. Go 
 Let's alter the code above to make use of **else if** and **else** statements. Pay attention to the **syntax**!!! Else if statements are written as **elif** in python.
 <br><br>
 <code>print("Do you like my new hat? (respond with 'yes' or 'no')")</code><br>
-<code>response = input()</code><br>
+<code>response = input()</code><br><br>
 <code>if response == "yes":</code><br>
 <code>  &nbsp;&nbsp;&nbsp;&nbsp;print("Thank you very much!")</code><br>
 <code>elif response == "no":</code><br>
@@ -38,9 +38,9 @@ It is important to note that the **else** statement lacks a condition. This mean
 Using conditions, we can also check if one value is **greater than (>)**, **less than (<)**, **greater than or equal to (>=)**, **less than or equal to (<=)**, or **not equal to (!=)** another value. To implement them in our code, we can simply use these inequality symbols in place of our **double equal signs (==).** Let's try implementing these in tandem with numbers. A
 <br><br>
 <code>print("I have 45 muffins. How many cookies do you have?")</code><br>
-<code>response = input()</code><br>
+<code>response = input()</code><br><br>
 <code>if isdigit(response)</code><br>
-<code>response = int(response)</code><br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;response = int(response)</code><br>
 <code>else:</code><br>
 <code>  &nbsp;&nbsp;&nbsp;&nbsp;print("I don't care about that! I want to know how many muffins you have!")</code><br><br>
 <code>if response == 45:</code><br>
