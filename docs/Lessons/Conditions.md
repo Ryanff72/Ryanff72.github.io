@@ -41,13 +41,14 @@ Using conditions, we can also check if one value is **greater than (>)**, **less
 <code>response = input()</code><br><br>
 <code>if response.isdigit():</code><br>
 <code>&nbsp;&nbsp;&nbsp;&nbsp;response = int(response)</code><br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;if response == 45:</code><br>
+<code>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("We have the same amount of muffins! This is awesome.")</code><br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;elif response > 45:</code><br>
+<code>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("How did you get so many muffins?! Give me some NOW or i'll tell my mom!!!")</code><br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;elif response < 45:</code><br>
+<code>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("HAHAHA LOOSERRR!!! I have more muffins than you and I bet you are jealous.")</code><br><br>
 <code>else:</code><br>
 <code>  &nbsp;&nbsp;&nbsp;&nbsp;print("I don't care about that! I want to know how many muffins you have!")</code><br><br>
-<code>if response == 45:</code><br>
-<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("We have the same amount of muffins! This is awesome.")</code><br>
-<code>elif response > 45:</code><br>
-<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("How did you get so many muffins?! Give me some NOW or i'll tell my mom!!!")</code><br>
-<code>elif response < 45:</code><br>
-<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("HAHAHA LOOSERRR!!! I have more muffins than you and I bet you are jealous.")</code><br><br>
+
 ## Challenge 3
 Now that you've learned about conditions, try creating your own game show! You can make whatever sort of game show you want (death wager, comedy, guessing, etc). Just make something goofy and fun, and be sure to use this page for reference if you need help. Enjoy (:
