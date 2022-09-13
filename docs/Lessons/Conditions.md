@@ -34,7 +34,7 @@ Let's alter the code above to make use of **else if** and **else** statements. P
 <code>  &nbsp;&nbsp;&nbsp;&nbsp;print("I don't care about that! I want to know what you think of my hat!")</code><br><br>
 It is important to note that the **else** statement lacks a condition. This means that it will simply run if all **if** or **else if** statements above it return false. This means that if we input something other than "yes" or "no", the program will run what is in the **else** statement. Lets see what will happen if we respond with something random!<br><br>
 ![image](https://user-images.githubusercontent.com/64915846/189808764-da83fd65-b02b-4f4e-b7e2-dd087dc1d7a1.png){: width="450"}<br><br>
-## Greater and Less
+## Greater and Less Than
 Using conditions, we can also check if one value is **greater than (>)**, **less than (<)**, **greater than or equal to (>=)**, **less than or equal to (<=)**, or **not equal to (!=)** another value. To implement them in our code, we can simply use these inequality symbols in place of our **double equal signs (==).** Let's try implementing these in tandem with numbers!
 <br><br>
 <code>print("I have 45 muffins. How many cookies do you have?")</code><br>
