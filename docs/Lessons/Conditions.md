@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 # Conditions
-If statements can be used to check if a variable is equal to another value. As an example, let's ask the user a yes or no question, and then give a 
+If statements can be used to check the value of one variable in relation to another. As an example, let's ask the user a yes or no question, and then give a 
 response based off of the user's input. When using **if** statements, we will use **two equal signs** to check if one value is equal to another. This is different than using one equal sign because one equal sign will set the first value equal to the second value (for example, if b = 2 and a = 0 and you write a = b, a will equal 2).
 <br><br>
 <code>print("Do you like my new hat? (respond with 'yes' or 'no')")</code><br>
@@ -32,6 +32,16 @@ Let's alter the code above to make use of **else if** and **else** statements. P
 <code>  &nbsp;&nbsp;&nbsp;&nbsp;print("How could you say that! I'll have you know my grandmother made it for me!")</code><br>
 <code>else:</code><br>
 <code>  &nbsp;&nbsp;&nbsp;&nbsp;print("I don't care about that! I want to know what you think of my hat!")</code><br><br>
-It is important to note that the **else** statement lacks a condition. This means that it will simply run if all **if** or **else if** statements above it return false. This means that if we input something other than "yes" or "no", the program will run what is in the **else** statement. Lets see what will happen if we respond with something random!
-![image](https://user-images.githubusercontent.com/64915846/189808764-da83fd65-b02b-4f4e-b7e2-dd087dc1d7a1.png){: width="450"}
+It is important to note that the **else** statement lacks a condition. This means that it will simply run if all **if** or **else if** statements above it return false. This means that if we input something other than "yes" or "no", the program will run what is in the **else** statement. Lets see what will happen if we respond with something random!<br><br>
+![image](https://user-images.githubusercontent.com/64915846/189808764-da83fd65-b02b-4f4e-b7e2-dd087dc1d7a1.png){: width="450"}<br><br>
+## Greater and Less
+Using conditions, we can also check if one value is **greater than (>)**, **less than (<)**, **greater than or equal to (>=)**, **less than or equal to (<=)**, or **not equal to (!=)** another value. To implement them in our code, we can simply use these inequality symbols in place of our **double equal signs (==).** Let's try implementing these in tandem with numbers!
+<br><br>
+<code>print()</code><br>
+<code>response = input()</code><br>
+<code>if response == "yes":</code><br>
+<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("Thank you very much!")</code><br>
+<code>elif response == "no":</code><br>
+<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("How could you say that! I'll have you know my grandmother made it for me!")</code><br>
+<code>else:</code><br>
 
