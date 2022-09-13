@@ -49,6 +49,8 @@ Using conditions, we can also check if one value is **greater than (>)**, **less
 <code>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("HAHAHA LOOSERRR!!! I have more muffins than you and I bet you are jealous.")</code><br><br>
 <code>else:</code><br>
 <code>  &nbsp;&nbsp;&nbsp;&nbsp;print("I don't care about that! I want to know how many muffins you have!")</code><br><br>
-
+Let's check out the results!
+![image](https://user-images.githubusercontent.com/64915846/189814720-2c512d60-01b6-469f-a30a-7ef88e1623c4.png){: width="450"}
+Neat! If you don't understand what is going on here, feel free to reread the page or do some research in the [python documentation](https://docs.python.org/3/) yourself. Best wishes!
 ## Challenge 3
 Now that you've learned about conditions, try creating your own game show! You can make whatever sort of game show you want (death wager, comedy, guessing, etc). Just make something goofy and fun, and be sure to use this page for reference if you need help. Enjoy (:
