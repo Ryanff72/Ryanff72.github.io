@@ -39,7 +39,7 @@ Using conditions, we can also check if one value is **greater than (>)**, **less
 <br><br>
 <code>print("I have 45 muffins. How many cookies do you have?")</code><br>
 <code>response = input()</code><br><br>
-<code>if isdigit(response)</code><br>
+<code>if response.isdigit():</code><br>
 <code>&nbsp;&nbsp;&nbsp;&nbsp;response = int(response)</code><br>
 <code>else:</code><br>
 <code>  &nbsp;&nbsp;&nbsp;&nbsp;print("I don't care about that! I want to know how many muffins you have!")</code><br><br>
