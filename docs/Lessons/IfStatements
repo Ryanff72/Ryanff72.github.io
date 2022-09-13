@@ -1,0 +1,9 @@
+---
+layout: default
+title: If Statements
+parent: Learn To Code
+nav_order: 5
+---
+
+# If Statements
+If statements can be used to check if a value is equal to another value.
