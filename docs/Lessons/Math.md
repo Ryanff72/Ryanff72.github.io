@@ -36,5 +36,5 @@ This will make the console write the following.<br><br>
 ![image](https://user-images.githubusercontent.com/64915846/189570888-c19ced7c-a649-423b-95c4-f085b984b290.png){: width="450"}
 <br><br>
 ## Challenge 1
-As a challenge, try creating a program that will ask for a users name, assign the user's name to a variable, and then use it in a sentence. You'll be able to talk to your own program!
+As a challenge, try creating a program that will ask for a users name, assign the user's name to a variable, and then use it in a sentence. You'll be able to talk to your own program! After you're done, feel free to continue to the [next lesson](https://ryanff72.github.io/Lessons/Conditions.html).
 
