@@ -37,11 +37,15 @@ It is important to note that the **else** statement lacks a condition. This mean
 ## Greater and Less
 Using conditions, we can also check if one value is **greater than (>)**, **less than (<)**, **greater than or equal to (>=)**, **less than or equal to (<=)**, or **not equal to (!=)** another value. To implement them in our code, we can simply use these inequality symbols in place of our **double equal signs (==).** Let's try implementing these in tandem with numbers!
 <br><br>
-<code>print()</code><br>
+<code>print("I have 45 muffins. How many cookies do you have?")</code><br>
 <code>response = input()</code><br>
-<code>if response == "yes":</code><br>
-<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("Thank you very much!")</code><br>
-<code>elif response == "no":</code><br>
-<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("How could you say that! I'll have you know my grandmother made it for me!")</code><br>
+<code>if response == 45:</code><br>
+<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("We have the same amount of muffins! This is awesome.")</code><br>
+<code>elif response > 45:</code><br>
+<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("How did you get so many muffins?! Give me some NOW or i'll tell my mom!!!")</code><br>
+<code>elif response < 45:</code><br>
+<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("HAHAHA LOOSERRR!!! I have more muffins than you and I bet you are jealous.")</code><br>
 <code>else:</code><br>
-
+<code>  &nbsp;&nbsp;&nbsp;&nbsp;print("I don't care about that! I want to know how many muffins you have!")</code><br><br>
+## Challenge 3
+Now that you've learned about conditions, try creating your own game show! You can make whatever sort of game show you want (death wager, comedy, guessing, etc). Just make something goofy and fun, and be sure to use this page for reference if you need help. Enjoy (:
