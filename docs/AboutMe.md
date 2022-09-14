@@ -21,7 +21,7 @@ Signature School may be one of the greatest challenges I have faced, and I love 
 
 ### Stats
 **GPA:** 4.07 <br>
-**SAT:** 1370 <br>
+**SAT:** 1460 <br>
 **Unnoficial Transcript:** <br>
 [Download](https://drive.google.com/uc?export=download&id=1-Ux3M0Y9uqrRyi6ARI_m_oxn4VAzmRlK){: .btn .btn-purple }
 
