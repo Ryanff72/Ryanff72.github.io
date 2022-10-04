@@ -5,6 +5,7 @@ nav_order: 2
 has_toc: false
 ---
 ## About Me <br>
+![Ryan Feller Senior 2023-15-X3](https://user-images.githubusercontent.com/64915846/193726638-fc33289a-7248-41ff-8724-1f3ab3d1c753.jpg)
 **Hello! My name is Ryan Feller, and I am a student, programmer, and game developer!** <br>
 This section is to help you get a better idea of who I am, what past endeavors I have undertaken, and more!
 
