@@ -5,7 +5,6 @@ nav_order: 1
 ---
 
 # Home <br>
-![Ryan Feller Senior 2023-65-X3](https://user-images.githubusercontent.com/64915846/193726583-48b7a31e-607c-4e9e-9dc9-6164b98839b7.jpg)
 ## About
 **Hello! My name is Ryan Feller, and I am a student, programmer, and game developer!** <br> This is my website portfolio, where you can find some of my personal projects, contact info, and more! <br>
 [More About Me](https://ryanff72.github.io/AboutMe.html){: .btn .btn-purple }
