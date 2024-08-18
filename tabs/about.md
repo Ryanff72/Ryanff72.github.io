@@ -36,8 +36,8 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
+asdf
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
 
