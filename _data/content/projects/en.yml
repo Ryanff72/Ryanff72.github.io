@@ -5,22 +5,22 @@
 page_data:
   main:
     header: "Projects"
-    info: "Your Project page description."
+    info: "A catalog of my projects"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
-  category:
-    - title: "Example"
-      type: id_example
-      color: "gray"
-    - title: "Picture"
-      type: id_picture
-      color: "#62b462"
-    - title: "Quote"
-      type: id_quote
-      color: "#2FD0ED"
+category:
+  - title: "Programming"
+    type: id_programming
+    color: "#3b82f6"   # A tech-inspired blue.
+  - title: "Game Development"
+    type: id_game_development
+    color: "#9f5ef7"   # A creative purple.
+  - title: "Engineering"
+    type: id_engineering
+    color: "#2a3b47"   # A solid steel blue-gray.
 
   list:
     # example
