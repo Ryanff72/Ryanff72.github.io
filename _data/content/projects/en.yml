@@ -176,16 +176,22 @@ page_data:
 
     # picture
     - type: id_engineering
-      project_name: "Water Turret"
+      project_name: "Human-Tracking Water Turret"
       project_excerpt: "Picture"
       img: ":turret_thumb.jpg"
       img_title: "The head of the turret"
       date: "2024-08-16"
       post: |
-        # Title
-        This is project content.
-
-        ![Image](:project2_thumb.jpg)
+        # Background
+        ![The Turret Setup](:turret_setup.jpg)
+        During the summer of 2024 I worked at a very hardware-oriented company, Matrix Design group. Interested by what my co-workers were working on, I decided to try and complete a hardware project of my own.
+        # The Process
+        ![The Turret Setup](:turret_wiring.jpg)
+        Coming into the project I had very little robotics / electrical engineering experience, but thanks to conversations with one of my co-workers, I was able to learn more about circuitry, relays, duty cycles, and much more.
+        Once I got my hands on a plank of wood, a camera, a 3d printer, a raspberry pi, and some wires, servos, and relays, I got to work. I wired up everything, and gave the turret the ability to either be aimed manually or automatically through image-recognition.
+        # Results
+        ![The Turret Setup](:turret_shooting.jpg)
+        In the end, the turret worked well with a few small issues. Due to the (painfully) slow speed of the raspberry pi's processor, it took a long time for the turret to recognize where people were at. There was also a small leak at the bottom of the nozzle. Despite these shortcomings, the manual control version was a lot of fun to work with, and it was quite funny to see which objects the robot recognized as human.    
 
     # quote
     - type: id_quote
