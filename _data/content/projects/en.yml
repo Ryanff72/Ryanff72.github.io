@@ -197,27 +197,17 @@ page_data:
         In the end, the turret worked well with a few small issues. Due to the (painfully) slow speed of the raspberry pi's processor, it took a long time for the turret to recognize where people were at. There was also a small leak at the bottom of the nozzle. Despite these shortcomings, the manual control version was a lot of fun to work with, and it was quite funny to see which objects the robot recognized as human.    
 
     # quote
-    - type: id_quote
-      project_name: "Example Project"
+    - type: id_programming
+      project_name: "Random Wikipedia Twitter Bot"
       project_excerpt: "William Shakespeare"
-      #img: ":project1_thumb.jpg"
+      img: ":wiki_bio.jpg"
       #img_title: "img title3"
-      date: "2021-05-27"
+      date: "2024-07-16"
       post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
+        # About
+        ![An Example Wikipedia Post](:wiki_post.jpg)
+        
+        During the first part of the summer of 2024, I programmed a bot that fetched wikipedia articles and posted them on twitter.
     - type: id_quote
       project_name: "Example Project"
       project_excerpt: "Albert Einstein"
