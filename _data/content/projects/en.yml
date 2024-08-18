@@ -198,16 +198,17 @@ page_data:
 
     # quote
     - type: id_programming
-      project_name: "Random Wikipedia Twitter Bot"
+      project_name: "Random Wikipedia X (Twitter) Bot"
       project_excerpt: "William Shakespeare"
       img: ":wiki_bio.jpg"
       #img_title: "img title3"
-      date: "2024-07-16"
+      date: "2024-07-14"
       post: |
         # About
         ![An Example Wikipedia Post](:wiki_post.jpg)
         
-        During the first part of the summer of 2024, I programmed a bot that fetched wikipedia articles and posted them on twitter.
+        During the first part of the summer of 2024, I programmed a bot that fetched wikipedia articles and posted them on X.com (Twitter).
+        The bot has a number of criteria that have to be met for a randomly generated article to be selected. For example, the article must be available in at least a few different languages, ensuring that it is not too obscure.
     - type: id_quote
       project_name: "Example Project"
       project_excerpt: "Albert Einstein"
