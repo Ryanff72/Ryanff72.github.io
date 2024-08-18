@@ -56,7 +56,7 @@ brand_replace: "$site_brand"
 greetings_replace: "$site_greetings"
 
 # replace text with data.lang[language].constants.welcome
-welcome_replace: "About Me"
+welcome_replace: "$site_welcome"
 
 # replace text with data.lang[language].constants.sample
 sample_replace: "$site_sample"
