@@ -8,7 +8,7 @@ brand: "Ryan Feller"
 brand_sub_text: "Ein Ort für meine persönlichen und akademischen Leistungen."
 
 # used for seo meta post author (if it's not defined in post)
-name: "作者名"
+name: "Ryan Feller"
 
 # home page top header texts
 home:
@@ -19,11 +19,11 @@ home:
 
 # about page sub title
 about:
-  sub_title: "$site_sample"
+  sub_title: "Weitere Informationen"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
-copyright_start_year: "2022"
+copyright_start_year: ""
 
 # make sure creative_commons.enable is true in _data/conf/main.yml file
 creative_commons:
@@ -42,13 +42,13 @@ creative_commons:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: "メタディスクリプション"
+meta_common_description: ""
 
 # contact options (side nav bottom and about page)
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
+  - github: ""
   #- email: ""
   #- linkedin: ""
   #- twitter: ""
