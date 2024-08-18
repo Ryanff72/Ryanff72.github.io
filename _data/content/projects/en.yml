@@ -172,12 +172,12 @@ category:
         ```
 
     # picture
-    - type: id_picture
-      project_name: "Example Project"
+    - type: id_engineering
+      project_name: "Water Turret"
       project_excerpt: "Picture"
-      img: ":project2_thumb.jpg"
-      img_title: "img title2"
-      date: "2021-04-23"
+      img: ":turret_thumb.jpg"
+      img_title: "The head of the turret"
+      date: "2024-08-16"
       post: |
         # Title
         This is project content.
