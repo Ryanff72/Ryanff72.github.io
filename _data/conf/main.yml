@@ -50,7 +50,7 @@ language_switch_hover_effect: "hover-effect"
 language_switch_top_nav: false
 
 # replace text with owner[language].brand
-brand_replace: "$site_brand"
+brand_replace: ""
 
 # replace text with data.lang[language].constants.greeting
 greetings_replace: "$site_greetings"
@@ -59,7 +59,7 @@ greetings_replace: "$site_greetings"
 welcome_replace: "$site_welcome"
 
 # replace text with data.lang[language].constants.sample
-sample_replace: "$site_sample"
+sample_replace: "loading..."
 
 ###########################################################
 #                Search
