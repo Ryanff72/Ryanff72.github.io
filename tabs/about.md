@@ -36,9 +36,4 @@ img: ":about.jpg"
 #published: false
 ---
 
-
-asdf
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+A second-year student aiming to apply skills acquired in past work to gain technical experience in computational science and software engineering.
