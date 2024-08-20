@@ -77,49 +77,49 @@ page_data:
       -
     # Game Development
     - type: id_gamedev
-      title: Heroes' Emporium
+      title: "Heroes' Emporium"
       url: "https://momke72.itch.io/heroesemporium"
       info: "A potion mixing game made in 2 days for GMTK 2023!"
     - type: id_gamedev
-      title: Meowchelmy
+      title: "Meowchelmy"
       url: "https://momke72.itch.io/meowchelmy"
       info: "A hitman-style stealth game about a cat sneaking around a fortress."
     - type: id_gamedev
-      title: Little Dice
+      title: "Little Dice"
       url: "https://victorghys.itch.io/little-dice"
       info: "A platformer-puzzle game made in 2 days for GMTK 2022!"
     - type: id_gamedev
-      title: Beat Brawl
+      title: "Beat Brawl"
       url: "https://momke72.itch.io/beat-brawl"
       info: "A rhythm game made in an afternoon"
     - type: id_gamedev
-      title: Sublime Monkey Perfection
+      title: "Sublime Monkey Perfection"
       url: "https://momke72.itch.io/monkey-kong"
       info: "A fast-paced platformer made for my school's programming club"
     - type: id_gamedev
-      title: RunnerOS
+      title: "RunnerOS"
       url: "https://abhorrentpropaganda.itch.io/runneros"
       info: "A desktop-themed platformer made in 2 days for GMTK 2021. Placed in the top 1%!"
     - type: id_gamedev
-      title: Idol's Tower
+      title: "Idol's Tower"
       url: "https://momke72.itch.io/idolstower"
       info: "A top-down dungeon crawler game made in a week for BLACKTHORNPOD Game Jam #3!"
     - type: id_gamedev
-      title: Cryptologist
+      title: "Cryptologist"
       url: "https://momke72.itch.io/cryptologist"
       info: "A code-breaking game made in an afternoon for the Historically Accurate Game Jam 3."
     - type: id_gamedev
-      title: Panda in Space
+      title: "Panda in Space"
       url: "https://momke72.itch.io/panda-in-space"
       info: "A rage-platforming game made for the Beginner's Circle Jam #3."
     - type: id_gamedev
-      title: Chit Chat
+      title: "Chit Chat"
       url: "https://momke72.itch.io/chit-chat"
       info: "A game about communication, made for the 'Game By it's Cover Jam."
     - type: id_gamedev
-      title: Ichor
+      title: "Ichor"
       url: "https://momke72.itch.io/ichor"
-      info: "A greek themed arena-shooter game."
+      info: "A greek themed 3D arena-shooter game."
       
       
       
