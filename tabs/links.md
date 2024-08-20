@@ -49,7 +49,7 @@ page_data:
     - title: "Professional"
       type: id_professional
       color: "gray"
-    - title: "Project Related Links"
+    - title: "Project Links"
       type: id_projects
       color: "#62b462"
     - title: "Game Development"
