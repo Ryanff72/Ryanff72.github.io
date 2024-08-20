@@ -55,7 +55,6 @@ page_data:
     - title: "Project Links"
       type: id_projects
       color: "#62b462"
-   
 
   list:
     # Professional
