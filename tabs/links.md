@@ -118,7 +118,4 @@ page_data:
       title: "Ichor"
       url: "https://momke72.itch.io/ichor"
       info: "A greek themed 3D arena-shooter game."
-      
-      
-      
 ---
