@@ -76,7 +76,7 @@ page_data:
     - type: id_gamedev
       title: Meowchelmy
       url: "https://momke72.itch.io/meowchelmy"
-      info: "A stealth game about a cat sneaking around a fortress"
+      info: "A hitman-style stealth game about a cat sneaking around a fortress."
     - type: id_gamedev
       title: Little Dice
       url: "https://victorghys.itch.io/little-dice"
