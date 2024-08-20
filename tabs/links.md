@@ -68,11 +68,13 @@ page_data:
       title: "Resume Download"
       url: "https://drive.google.com/uc?export=download&id=1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F"
       info: "A link to download my resume directly."
+      -
     # Project Links
     - type: id_projects
       title: "Wikipedia X (Twitter) Bot"
       url: "https://x.com/random_wiki__"
-      info: "An automated X (Twitter) account that posts a high-quality random Wikipedia article every hour.
+      info: "An automated X (Twitter) account that posts a high-quality random Wikipedia article every hour."
+      -
     # Game Development
     - type: id_gamedev
       title: Heroes' Emporium
