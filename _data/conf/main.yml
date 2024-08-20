@@ -59,7 +59,7 @@ greetings_replace: "$site_greetings"
 welcome_replace: "$site_welcome"
 
 # replace text with data.lang[language].constants.sample
-sample_replace: "$site_sample"
+sample_replace: "A second-year student aiming to apply skills acquired in past work to gain technical experience in computational science and software engineering."
 
 ###########################################################
 #                Search
