@@ -66,6 +66,10 @@ page_data:
       title: "Resume Download"
       url: "https://drive.google.com/uc?export=download&id=1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F"
       info: "A link to download my resume directly."
+    - type: id_professional
+      title: "Github"
+      url: "https://github.com/Ryanff72"
+      info: "See what I've been working on recently."
       
     # Project Links
     - type: id_projects
