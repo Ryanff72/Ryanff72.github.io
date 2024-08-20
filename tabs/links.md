@@ -42,27 +42,27 @@ lng_pair: id_links
 page_data:
   main:
     header: "Links"
-    info: "Your Links page description."
+    info: "Links to my other places."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
+    - title: "Professional"
+      type: id_professional
       color: "gray"
-    - title: "Web Design"
-      type: id_webdesign
+    - title: "Game Development"
+      type: id_gamedev
       color: "#F4A273"
-    - title: "Programming"
-      type: id_programming
+    - title: "Some Other Things"
+      type: id_other
       color: "#62b462"
 
   list:
     -
-    # programming
-    - type: id_programming
-      title: "Stack OverFlow"
-      url: "https://stackoverflow.com/"
-      info: "Stack Overflow is a question and answer website for professional and enthusiastic programmers."
+    # Professional
+    - type: id_professional
+      title: "Linkedin"
+      url: "https://www.linkedin.com/in/ryan-feller-b66783220/"
+      info: "My Linkedin page, which contains info about myself and recent happenings in my professional life."
 
     # jekyiiliquid
     - type: id_jekyiiliquid
