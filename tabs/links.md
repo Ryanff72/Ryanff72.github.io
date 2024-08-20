@@ -58,7 +58,6 @@ page_data:
    
 
   list:
-    -
     # Professional
     - type: id_professional
       title: "Linkedin"
