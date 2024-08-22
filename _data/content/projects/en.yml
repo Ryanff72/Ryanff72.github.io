@@ -19,7 +19,7 @@ page_data:
       type: id_programming
       color: "#3b82f6"   # A tech-inspired blue.
     - title: "Game Development"
-      type: id_game_development
+      type: id_gamedev
       color: "#9f5ef7"   # A creative purple.
     
 
