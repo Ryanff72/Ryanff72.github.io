@@ -11,18 +11,18 @@ page_data:
     img: ":projects-heading-new.jpg"
     back_color: "lightblue"
     
-  category:
+  category:    
+  - title: "Engineering"
+      type: id_engineering
+      color: "#2a3b47"   # A solid steel blue-gray.
     - title: "Programming"
       type: id_programming
       color: "#3b82f6"   # A tech-inspired blue.
-  
     - title: "Game Development"
       type: id_game_development
       color: "#9f5ef7"   # A creative purple.
     
-    - title: "Engineering"
-      type: id_engineering
-      color: "#2a3b47"   # A solid steel blue-gray.
+
 
 
   list:
