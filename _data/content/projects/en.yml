@@ -231,9 +231,13 @@ page_data:
         - Panda in Space, A rage platformer
         - Cryptologist, A code-breaking pseudo-typing game
         - Idol's Tower, A dungeon crawler with a wacky twist
-        - RunnerOS, A desktop-themed platformer (pictured above)
-        - Little Dice, A cute dice puzzle game
-        - Heroes' Emporium, An item mixing puzzle game
+        - RunnerOS, A desktop-themed platformer, made in 2 days (pictured above)
+        - Little Dice, A cute dice puzzle game, made in 2 days (pictured below)
+        - Heroes' Emporium, An item mixing puzzle game, also made in 2 days
+
+        ![A gif from the game Little Dice](:little_dice.gif)
+
+        
         
     - type: id_quote
       project_name: "Example Project"
