@@ -12,7 +12,7 @@ page_data:
     back_color: "lightblue"
     
   category:        
-  - title: "Programming"
+    - title: "Programming"
       type: id_programming
       color: "#3b82f6"   # A tech-inspired blue.
       
