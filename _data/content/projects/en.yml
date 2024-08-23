@@ -14,7 +14,7 @@ page_data:
   category:        
     - title: "Programming"
       type: id_programming
-      color: "#3b82f6"   # A tech-inspired blue.
+      color: "#229628"   # A tech-inspired blue.
       
     - title: "Game Development"
       type: id_gamedev
@@ -216,12 +216,24 @@ page_data:
       img_title: "A screenshot of some of the games I made."
       date: "2021-06-08"
       post: |
-        I decided to embark on my game development journey late in 2019, where I taught myself the basics of Unreal Engine and Blender. During quarantine, I found the time to build my first game, Ichor, a greek-themed arena shooter.
+        I decided to embark on my game development journey late in 2019, and have since published 11 games.
+        I began by teaching myself the basics of Unreal Engine and Blender. During quarantine, I found the time to build my first game, Ichor, a greek-themed arena shooter.
 
         ![A screenshot from the game Ichor](:ichor_pic.jpg)
 
         Later in 2020, I decided to switch to Unity for development, as the development cycle was much quicker and it opened the door to collaborate with more people, as Unity is a more popular game engine.
+        I was mostly motivated to learn Unity by game jams, which are competitions under which participants have to make a game in a short amount of time - usually only from a few days to a week - under a predetermined theme.
         
+        ![A screenshot from the game RunnerOS](:runneros_pic.jpg)
+
+        Over the span of 2020-2023, I participated in many game jams, and developed:
+        - Chit Chat, A choose your own aventure interactive fiction game
+        - Panda in Space, A rage platformer
+        - Cryptologist, A code-breaking pseudo-typing game
+        - Idol's Tower, A dungeon crawler with a wacky twist
+        - RunnerOS, A desktop-themed platformer (pictured above)
+        - Little Dice, A cute dice puzzle game
+        - Heroes' Emporium, An item mixing puzzle game
         
     - type: id_quote
       project_name: "Example Project"
