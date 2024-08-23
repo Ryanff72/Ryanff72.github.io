@@ -173,9 +173,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: 
+  greetings: Welcome
   welcome: Welcome
-  sample: I am a second-year student aiming to apply skills acquired in past work to gain technical experience in computational science and software engineering.
+  sample: "This site contains information about Ryan Feller's Professional and Academic achievements. Feel free to take a look around!"
   
 
 # for contact form
