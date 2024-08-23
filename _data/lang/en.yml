@@ -173,7 +173,7 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
+  greetings: Welcome to my Website.
   welcome: Welcome
   sample: Sample
 
