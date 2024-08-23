@@ -173,9 +173,10 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Welcome to my Website.
+  greetings: 
   welcome: Welcome
-  sample: Sample
+  sample: I am a second-year student aiming to apply skills acquired in past work to gain technical experience in computational science and software engineering.
+  
 
 # for contact form
 contact_form:
