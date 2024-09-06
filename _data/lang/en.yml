@@ -175,10 +175,11 @@ privacy-policy:
 constants:
   greetings: Welcome
   welcome: Welcome
-  sample: |
-	This site contains information about Ryan Feller's professional and academic achievements. Feel free to take a look around!  
-	
-	# CV
+  sample: "This site contains information about Ryan Feller's professional and academic achievements. Feel free to take a look around!\n
+  ## Header
+
+
+"
 
 	
 
