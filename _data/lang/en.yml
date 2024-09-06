@@ -175,21 +175,27 @@ privacy-policy:
 constants:
   greetings: Welcome
   welcome: Welcome
-  sample: "This **site** contains information about Ryan Feller's professional and academic achievements. Feel free to take a look around!\
-  #CV
+  sample: "This **site** contains information about Ryan Feller's professional and academic achievements. Feel free to take a look around!  
+
+#CV
 ## Education
 
 	- Purdue - West Lafayette, Class of 2027
+
 	- Computer Science Honors + Mathematics Majors
-	- John Martinson Honors College at Purdue
-	- International Baccalaureate Diploma
+
+	- John Martinson Honors College at Purdue  
+
+	- International Baccalaureate Diploma  
+
 	- AP Capstone Diploma
 
 	---
 
 ## Research
 
-	**Niches Corridor Project**  \
+	**Niches Corridor Project**  
+
 	*Jan 2024 - Present*  \
 	Developed an app to facilitate the bioacoustic sound analysis process, and was awarded a paid research assistantship in the fall of 2024. This research is done under Dr. Bellisario, who has many years of experience in biosonic work. The project's larger goal is to track the migration and presence of species across northern Indiana, and to help the Niches Land Trust to find the optimal land to purchase and preserve.
 
