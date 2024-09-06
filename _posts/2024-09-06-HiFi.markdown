@@ -11,7 +11,7 @@ category: auto generated
 # multiple tag entries are possible
 tags: [jekyll, sample]
 # thumbnail image for post
-img: ":post_pic3.jpg"
+img: ":hifi.jpeg"
 # disable comments on this page
 #comments_disable: true
 
@@ -44,7 +44,7 @@ date: 2024-09-04 20:21:03 +0900
 {%- include util/auto-content-generator.liquid -%}
 
 <!-- outline-start -->
-
+hello there
 {{ website_info_text_first }}
 
 <!-- outline-end -->
