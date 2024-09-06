@@ -36,4 +36,4 @@ img: ":about.jpg"
 #published: false
 ---
 
-A second-year student aiming to apply skills acquired in past work to gain technical experience in computational science and software engineering.
+A second-year student aiming to apply skills acquired in past work to gain technical experience in computational science and software engineering. You can find my resume [here](https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true).
