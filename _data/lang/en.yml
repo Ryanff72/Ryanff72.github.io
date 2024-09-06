@@ -175,85 +175,79 @@ privacy-policy:
 constants:
   greetings: Welcome
   welcome: Welcome
-  sample: "This **site** contains information about Ryan Feller's professional and academic achievements. Feel free to take a look around!  
+  sample: 
+"This **site** contains information about Ryan Feller's professional and academic achievements. Feel free to take a look around!  
 
-#CV <br>
-	## Education <br>
-	- Purdue - West Lafayette, Class of 2027
+	Phone: 812-202-2225 Email: fellerr@purdue.edu Website: https://ryanff72.github.io Linkedin: https://www.linkedin.com/in/ryan-feller-b66783220/ 
 
-	- Computer Science Honors + Mathematics Majors
+	Second-year student with a background in full stack development, computer vision, and game development with Unity, hoping to find myself in a technical environment this summer.
 
-	- John Martinson Honors College at Purdue  
 
-	- International Baccalaureate Diploma  
+	Education
 
-	- AP Capstone Diploma
+	Purdue - West Lafayette, Class of 2027
+	Computer Science Honors + Mathematics Majors
+	John Martinson Honors College at Purdue
 
-	---
+	International Baccalaureate Diploma
+	AP Capstone Diploma
 
-## Research
 
-	**Niches Corridor Project**  
 
-	*Jan 2024 - Present*  
-
+	Research
+	Niches Corridor Project
+	Jan 2024 - Present 
 	Developed an app to facilitate the bioacoustic sound analysis process, and was awarded a paid research assistantship in the fall of 2024. This research is done under Dr. Bellisario, who has many years of experience in biosonic work. The project's larger goal is to track the migration and presence of species across northern Indiana, and to help the Niches Land Trust to find the optimal land to purchase and preserve.
 
-	---
 
-## Relevant Coursework
+	Relevant Coursework
 
-	- Data Structures and Algorithms (CS 251)
-	- Computer Architecture (CS 250)
-	- Advanced Linear Algebra (MA 353)
-	- Elementary Linear Algebra (MA 351)
-	- Discrete Math for CS (CS 182)
-	- Programming in C (CS 240)
-	- Object Oriented Programming in Java (CS 180)
-	- Multivariate Calculus Honors (MA 271)
+	Data Structures and Algorithms (CS 251)
+	Computer Architecture (CS 250)
+	Advanced Linear Algebra (MA 353)
+	Elementary Linear Algebra (MA 351)
+	Discrete Math for CS (CS 182)
+	Programming in C (CS 240)
+	Object Oriented Programming in Java (CS 180)
+	Multivariate Calculus Honors (MA 271)
 
-	---
 
-## Skills Rundown
 
-	- **C#** - ~4 Years (on/off) + 1 Summer
-	- **C** - 1 Semester
-	- **R** - 1 Semester
-	- **Java** - 1 Semester
-	- **Unix** - 2 Semesters
-	- **Python** - 1 Summer
-	- **HTML, CSS, JS** - 1 Summer
-	- **Research Experience** - 2+ Years
-	- **Github** - 4+ Years
+	Skills Rundown
 
-	---
+	C# - ~4 Years (on/off) + 1 Summer
+	C - 1 Semester
+	R - 1 Semester
+	Java - 1 Semester
+	Unix - 2 Semesters
+	Python - 1 Summer
+	HTML, CSS, JS - 1 Summer
+	Research Experience - 2+ Years
+	Github - 4+ Years
 
-## Work Experience
 
-	**Computer Vision Intern - Matrix Design Group**  \
-	*May - Aug 2024*  \
+
+	Work Experience
+	Computer Vision Intern - Matrix Design Group
+	May - Aug 2024
 	Experimented with training methods for object detection with synthetic data (Unity C#), wrote backend tools for data documentation (Python), reorganization, and a video to high-quality, no-duplicate dataset pipeline. Did full-stack for a .NET / C# desktop app, where I developed a new feature, with many subfeatures, all on my own.
-
-	**Web Development Intern - Nextech Catapult**  \
-	*2023*  \
+	Web Development Intern - Nextech Catapult
+	2023
 	Programmed in HTML, CSS, and JS through this learning-focused internship. Through the mentorship of tech leaders throughout the Greater Evansville area and beyond, I discovered what careers in tech look like on a day-to-day basis. The HTML, CSS, and JS skills I learned during this internship enabled me to build my portfolio website, listed above. My website won the “Catapult Choice” award, which goes to the best website, elected by vote.
 
-	---
 
-## Distinctive Clubs, Activities, and Projects
-
-	**Human-Seeking Water Turret**  \
-	*Jun - Aug 2024* \ 
-	Built an automated turret that identifies humans in a video feed and sprays them with water. The turret was built using a raspberry pi and parts that I cut out of wood or 3D printed. You can find out more on my website.
-
-	**Wikipedia Twitter Bot**  \
-	*Jun - Jul 2024*  \
-	Developed a Python bot that finds high-quality Wikipedia articles and curates a formatted X.com (Twitter.com) post.  
-	Here is a link: [https://x.com/random_wiki__](https://x.com/random_wiki__).
-
-	**Game Development**  \
-	*2019 - 2023*  \
+	Distinctive Clubs, Activities, and Projects
+	Human-Seeking Water Turret
+	Jun - Aug 2024
+	Built an automated turret that identifies humans in a video feed and sprays them with water. The turret was built using a raspberry pi and parts that I cut out of wood or 3d printed. You can find out more on my website.
+	Wikipedia Twitter Bot
+	Jun - Jul 2024
+	Developed a python bot that finds high-quality wikipedia articles and curates a formatted X.com (Twitter.com) post. 
+	Here is a link: https://x.com/random_wiki__ .
+	Game Development 
+	2019 - 2023
 	Worked alone and on team projects. I compete in competitions and have published 11 games to date. My projects have garnered over 1,500 downloads on itch.io. I have also placed highly (top 1-2%) in multiple game development hackathons. You can find out more on my website.
+
 " 
 
 # for contact form
