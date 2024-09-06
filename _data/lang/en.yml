@@ -177,9 +177,8 @@ constants:
   welcome: Welcome
   sample: "This **site** contains information about Ryan Feller's professional and academic achievements. Feel free to take a look around!  
 
-#CV
-## Education
-
+#CV <br>
+	## Education <br>
 	- Purdue - West Lafayette, Class of 2027
 
 	- Computer Science Honors + Mathematics Majors
@@ -196,7 +195,8 @@ constants:
 
 	**Niches Corridor Project**  
 
-	*Jan 2024 - Present*  \
+	*Jan 2024 - Present*  
+
 	Developed an app to facilitate the bioacoustic sound analysis process, and was awarded a paid research assistantship in the fall of 2024. This research is done under Dr. Bellisario, who has many years of experience in biosonic work. The project's larger goal is to track the migration and presence of species across northern Indiana, and to help the Niches Land Trust to find the optimal land to purchase and preserve.
 
 	---
@@ -254,7 +254,7 @@ constants:
 	**Game Development**  \
 	*2019 - 2023*  \
 	Worked alone and on team projects. I compete in competitions and have published 11 games to date. My projects have garnered over 1,500 downloads on itch.io. I have also placed highly (top 1-2%) in multiple game development hackathons. You can find out more on my website.
-  " 
+" 
 
 # for contact form
 contact_form:
