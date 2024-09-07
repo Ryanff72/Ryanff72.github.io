@@ -175,7 +175,10 @@ privacy-policy:
 constants:
   greetings: Welcome
   welcome: Welcome
-  sample: "This site contains information about Ryan Feller's professional and academic achievements. Feel free to take a look around!  
+  sample: "
+  Ryan is a second-year Purdue student with a background in C# full stack development, computer vision, and game development with Unity, hoping to find myself in a technically stimulating environment this summer.\
+
+  This site contains information about Ryan Feller's professional and academic achievements. Feel free to take a look around!  \
 
   If you are looking for my resume, you can find it [here](https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true). This site allows for a visual interpretation, but does not include everything.
 "
