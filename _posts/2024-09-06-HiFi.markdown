@@ -45,7 +45,7 @@ date: 2024-09-04 20:21:03 +0900
 
 <!-- outline-start -->
 **2024**\
-Developed an app to facilitate the bioacoustic sound analysis process, and was awarded a paid research assistantship in the fall of 2024. This research is done under Dr. Bellisario, who has many years of experience in biosonic work. The project's larger goal is to track the migration and presence of species across northern Indiana, and to help the Niches Land Trust to find the optimal land to purchase and preserve.\
+As a researcher on the HiFi team, I developed an app to facilitate the bioacoustic sound analysis process, and was awarded a paid research assistantship in the fall of 2024. This research is done under Dr. Bellisario, who has many years of experience in biosonic work. The big-picture goal of the project is to track the migration and presence of species across northern Indiana, and to help the Niches Land Trust to find the optimal land to purchase and preserve.\
 ![The Research Poster I Presented and Me](:hifi.jpeg)\
 As shown above, I presented my work at the undergraduate research fair, where I was able to tell many others about my work, and gather feedback from pepole from a variety of disciplines and backgrounds. Here is a better look at the poster:\
 ![The Research Poster I Presented](:hifiposter0.jpg)\
