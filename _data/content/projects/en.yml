@@ -209,7 +209,7 @@ page_data:
         The bot has a number of criteria that have to be met for a randomly generated article to be selected. For example, the article must be available in at least a few different languages, ensuring that it is not too obscure.
      
     - type: id_gamedev
-      project_name: "Game Development (Summary)"
+      project_name: "Game Development"
       project_excerpt: "A summary of my game development journey."
       img: ":gamedev_thumb.jpg"
       img_title: "A screenshot of some of the games I made."
