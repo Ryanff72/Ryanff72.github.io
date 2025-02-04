@@ -16,7 +16,7 @@ img: ":hifi.jpeg"
 #comments_disable: true
 
 # publish date
-date: 2024-09-04 20:21:03 +0900
+date: 2025-01-03 22:29:03 +0900
 
 # seo
 # if not specified, date will be used.
