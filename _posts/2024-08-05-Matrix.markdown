@@ -48,7 +48,7 @@ date: 2024-08-05 20:21:03 +0900
 ![The Matrix Logo](:matrixthumb.jpg)\
 **May - Aug 2024**\
 During my time at Matrix, I experimented with training methods for object detection with synthetic data in C# with Unity. Additionally, I wrote backend tools for data documentation in Python, which included data reorganization, a video to high-quality, no-duplicate dataset pipeline, and much more. Worked in a full-stack environment developing a .NET / C# desktop app, where I created a new feature, with many subfeatures, all on my own.\
-Overall, working at Matrix was a wonderful experience. I had the opportunity to meet and learn from many talented individual, and was able to find a role in which I could become a genuine asset to the company.
+Overall, working at Matrix was a wonderful experience. I had the opportunity to meet and learn from many talented individuals, and was able to find a role in which I could become a genuine asset to the company.
 
 
 
