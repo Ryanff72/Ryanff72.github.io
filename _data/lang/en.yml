@@ -174,19 +174,18 @@ privacy-policy:
 # constants to be replaced for
 constants:
   greetings: "Welcome"
-  welcome: "Welcome"
+  welcome: ""
   sample: "
   <div class='welcome-container'>
     <div class='profile-section'>
-      <img src='assets/img/about.jpg' class='profile-pic' alt='Ryan Feller'>
       <h1>Hi, I'm Ryan Feller 👋</h1>
       <h3>Computer Science & Mathematics @ Purdue University</h3>
     </div>
 
-    <p>I'm a passionate developer focused on creating impactful software solutions. Currently exploring:</p>
+    <p>I'm a passionate developer focused on creating impactful software solutions, and have taken a recent interest in embedded development. Currently exploring:</p>
 
     <div class='section'>
-      <h3><span class='emoji'>🔭</span> Current Focus</h3>
+      <h3><span class='emoji'>🔭</span> Recent Endeavors</h3>
       <ul>
         <li>Full-stack development with C# and .NET</li>
         <li>Computer vision and ML projects</li>
@@ -212,9 +211,7 @@ constants:
         <li><a href='https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true'>Resume</a></li>
       </ul>
     </div>
-
     <hr>
-    <p><em>Currently seeking Summer 2024 internship opportunities in software development</em></p>
   </div>
 "
 
