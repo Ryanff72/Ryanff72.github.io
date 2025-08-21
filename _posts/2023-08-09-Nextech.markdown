@@ -45,9 +45,14 @@ date: 2023-08-09 20:21:03 +0900
 
 <!-- outline-start -->
 
-![The Matrix Logo](:nextechthumb.jpg)\
-**2023**\
-Programmed in HTML, CSS, and JS through this learning-focused internship. Through the mentorship of tech leaders throughout the Greater Evansville area and beyond, I discovered what careers in tech look like on a day-to-day basis. The HTML, CSS, and JS skills I learned during this internship enabled me to build my portfolio website, listed above. My website won the “Catapult Choice” award, which goes to the best website, elected by vote.
+**June 2023 - August 2023**
+
+![The Nextech Logo](:nextechthumb.jpg)\
+
+- 🌐 **Learned Core Web Development Skills** in HTML, CSS, and JavaScript during a hands-on, learning-focused internship, gaining practical experience under the guidance of tech leaders from the Greater Evansville area.  
+- 💻 **Built a Portfolio Website** from scratch, applying newly acquired skills to create a functional and visually appealing site that showcases my projects and experience.  
+- 🏅 **Earned the “Catapult Choice” Award** for the top-voted website in the program, recognized for its design and functionality through a competitive peer review process.  
+- 🤝 **Gained Insight into Tech Careers**, learning the ins and outs of daily life in the industry through mentorship and collaboration with experienced professionals.**2023**\
 
 <!-- outline-end -->
 
