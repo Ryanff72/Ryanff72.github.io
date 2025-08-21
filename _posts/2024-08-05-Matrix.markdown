@@ -45,7 +45,7 @@ date: 2024-08-05 20:21:03 +0900
 
 <!-- outline-start -->
 
-**May 2024 - August 2024**
+**May 2024 - August 2024**\
 ![The Matrix Logo](:matrixthumb.jpg)\
 
 - 📸 **Enhanced Object Detection** by exploring synthetic data training methods in C# with Unity, improving detection accuracy by 2% through practical experimentation.  
