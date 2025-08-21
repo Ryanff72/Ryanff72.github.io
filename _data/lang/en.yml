@@ -173,7 +173,7 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: "Welcome"
+  greetings: ""
   welcome: ""
   sample: "
   <div class='welcome-container'>
@@ -211,7 +211,6 @@ constants:
         <li><a href='https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true'>Resume</a></li>
       </ul>
     </div>
-    <hr>
   </div>
 "
 
