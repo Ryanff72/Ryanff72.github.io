@@ -176,31 +176,46 @@ constants:
   greetings: "Welcome"
   welcome: "Welcome"
   sample: "
-  ![Ryan's Profile](assets/img/about.jpg){:.profile-pic}
+  <div class='welcome-container'>
+    <div class='profile-section'>
+      <img src='assets/img/about.jpg' class='profile-pic' alt='Ryan Feller'>
+      <h1>Hi, I'm Ryan Feller 👋</h1>
+      <h3>Computer Science & Mathematics @ Purdue University</h3>
+    </div>
 
-  # Hi, I'm Ryan Feller 👋
-  ### Computer Science & Mathematics @ Purdue University
+    <p>I'm a passionate developer focused on creating impactful software solutions. Currently exploring:</p>
 
-  I'm a passionate developer focused on creating impactful software solutions. Currently exploring:
+    <div class='section'>
+      <h3><span class='emoji'>🔭</span> Current Focus</h3>
+      <ul>
+        <li>Full-stack development with C# and .NET</li>
+        <li>Computer vision and ML projects</li>
+        <li>IoT solutions using Raspberry Pi</li>
+        <li>Game development in Unity</li>
+      </ul>
+    </div>
 
-  ### 🔭 Current Focus
-  - Full-stack development with C# and .NET
-  - Computer vision and ML projects
-  - IoT solutions using Raspberry Pi
-  - Game development in Unity
+    <div class='section'>
+      <h3><span class='emoji'>🚀</span> Quick Links</h3>
+      <ul>
+        <li><a href='/projects.html'>View My Projects</a> - See what I've built</li>
+        <li><a href='/blog'>Professional Experience</a> - My work history</li>
+        <li><a href='/about.html'>About Me</a> - Learn more about my background</li>
+        <li><a href='https://github.com/Ryanff72'>GitHub</a> - Check out my code</li>
+      </ul>
+    </div>
 
-  ### 🚀 Quick Links
-  - [View My Projects](/projects) - See what I've built
-  - [Professional Experience](/blog) - My work history
-  - [About Me](/about) - Learn more about my background
-  - [GitHub](https://github.com/Ryanff72) - Check out my code
-  
-  ### 📫 Connect With Me
-  - [LinkedIn](https://www.linkedin.com/in/ryan-feller-86784b250/)
-  - [Resume](https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true)
+    <div class='section'>
+      <h3><span class='emoji'>📫</span> Connect With Me</h3>
+      <ul>
+        <li><a href='https://www.linkedin.com/in/ryan-feller-86784b250/'>LinkedIn</a></li>
+        <li><a href='https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true'>Resume</a></li>
+      </ul>
+    </div>
 
-  ---
-  *Currently seeking Summer 2024 internship opportunities in software development*
+    <hr>
+    <p><em>Currently seeking Summer 2024 internship opportunities in software development</em></p>
+  </div>
 "
 
 # for contact form
