@@ -17,6 +17,7 @@ layout: default
   {%- endif -%}
 {%- endif -%}
 
+{%- comment -%}
 <div class="multipurpose-container home-heading-container">
   <div class="home-heading" {{ home_img_background_style }}>
     {{ home_img_tag }}
@@ -38,6 +39,7 @@ layout: default
     {{ content }}
   </div>
 </div>
+{%- endcomment -%}
 
 {%- if lng_pages.size > 0 and site.data.conf.others.home.new_posts %}
 <div class="multipurpose-container new-posts-container">

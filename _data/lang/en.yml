@@ -173,7 +173,7 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: ""
+  greetings: " "
   welcome: ""
   sample: "
   <div class='welcome-container'>
