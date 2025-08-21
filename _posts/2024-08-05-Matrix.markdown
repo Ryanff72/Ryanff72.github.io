@@ -45,14 +45,13 @@ date: 2024-08-05 20:21:03 +0900
 
 <!-- outline-start -->
 
-![The Matrix Logo](:matrixthumb.jpg)\
 **May 2024 - August 2024**
+![The Matrix Logo](:matrixthumb.jpg)\
 
-- 🎮 **Revolutionized Object Detection** by experimenting with synthetic data training methods in C# using Unity, boosting detection rates by 2% and making computer vision models sharper than a tack.  
-- 🐍 **Crafted Python Backend Tools** for data documentation, including a slick video-to-high-quality, no-duplicate dataset pipeline, streamlining data reorganization and management like a pro.  
-- 💻 **Owned Full-Stack Development** for a .NET/C# desktop app, single-handedly building a robust new feature with multiple subfeatures, proving I can juggle code and deliver like a boss.  
-- 🌟 **Thrived in a Dynamic Environment**, soaking up knowledge from Matrix’s rockstar team while becoming a legit asset, turning challenges into opportunities with a smile.
-
+- 📸 **Enhanced Object Detection** by exploring synthetic data training methods in C# with Unity, improving detection accuracy by 2% through practical experimentation.  
+- 🐍 **Developed Python Backend Tools** for data documentation, creating an efficient pipeline for video-to-high-quality, no-duplicate datasets to support data management needs.  
+- 💻 **Contributed to Full-Stack Development** on a .NET/C# desktop app, independently building a new feature with multiple subfeatures to meet project requirements.  
+- 🤝 **Learned from a Talented Team**, gaining valuable insights from Matrix’s skilled professionals while contributing meaningfully to company projects.
 
 
 <!-- outline-end -->
