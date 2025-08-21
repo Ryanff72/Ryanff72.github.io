@@ -49,7 +49,7 @@ date: 2024-08-20 20:44:03 +0900
 ![Lawrence Livermore National Laboratory Group Intern Photo](:llnlpeeps.jpg)\
 
 - 🚀 **Evaluated Raspberry Pi for Embedded Control** at the National Ignition Facility (NIF), contributing to the functionality of the world’s largest laser system supporting the US nuclear program.  
-- 💻 **Ported an Embedded Controller to Linux** using C++, enabling it to function as both an emulator and real controller, improving system integration.  
+- 💻 **Ported and Rewrote an Embedded Controller to Linux** using C++, enabling it to function as both an emulator and real controller, improving system integration.  
 - 🛠️ **Created GitLab CI/CD Pipelines and JUnit/GTest Harnesses**, enhancing code testability and reliability for critical systems.  
 - 🐞 **Identified and Fixed an ARM-Specific Bug** in the NIF camera controller, resolving a long-standing issue to improve system performance.
 

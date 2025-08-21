@@ -267,3 +267,11 @@
 {% if projects_page_exist %}
   @import "projects/project-container";
 {% endif %}
+
+.profile-pic {
+  width: 200px;
+  border-radius: 50%;
+  margin: 20px auto;
+  display: block;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}

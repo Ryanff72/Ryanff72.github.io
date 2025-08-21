@@ -173,14 +173,34 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Welcome
-  welcome: Welcome
+  greetings: "Welcome"
+  welcome: "Welcome"
   sample: "
-  I am a second-year Purdue student studying CS and Math! I have a background in C# full stack development, computer vision, raspberry pi and python projects, and game development with Unity.\
+  ![Ryan's Profile](assets/img/about.jpg){:.profile-pic}
 
-  This site contains information about my professional and academic achievements. Feel free to take a look around! It doesn't contain everything, but the most important bits are here. \
+  # Hi, I'm Ryan Feller 👋
+  ### Computer Science & Mathematics @ Purdue University
 
-  If you are looking for my resume, you can find it [here](https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true).
+  I'm a passionate developer focused on creating impactful software solutions. Currently exploring:
+
+  ### 🔭 Current Focus
+  - Full-stack development with C# and .NET
+  - Computer vision and ML projects
+  - IoT solutions using Raspberry Pi
+  - Game development in Unity
+
+  ### 🚀 Quick Links
+  - [View My Projects](/projects) - See what I've built
+  - [Professional Experience](/blog) - My work history
+  - [About Me](/about) - Learn more about my background
+  - [GitHub](https://github.com/Ryanff72) - Check out my code
+  
+  ### 📫 Connect With Me
+  - [LinkedIn](https://www.linkedin.com/in/ryan-feller-86784b250/)
+  - [Resume](https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true)
+
+  ---
+  *Currently seeking Summer 2024 internship opportunities in software development*
 "
 
 # for contact form
