@@ -210,7 +210,6 @@ constants:
     </div>
   </div>
 "
-
 # for contact form
 contact_form:
   button_name: Contact Form
