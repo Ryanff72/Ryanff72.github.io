@@ -4,7 +4,7 @@ layout: about
 lng_pair: id_about
 
 # image for page specific usage
-img: ":aboutwash.webp"
+img: "/assets/img/about/aboutwash.webp"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -36,4 +36,4 @@ img: ":aboutwash.webp"
 #published: false
 ---
 
-A second-year student aiming to apply skills acquired in past work to gain technical experience in computational science and software engineering. You can find my resume [here](https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true).
+A third-year student At Purdue University, studying Math and Computer Science. Looking forwards to meeting you! You can find my resume [here](https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true).

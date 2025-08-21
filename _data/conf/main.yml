@@ -299,7 +299,7 @@ meta:
   schema_markup_post: true
   schema_markup_post_add_postbody: true
   schema_markup_logo_img: /assets/img/favicons/apple-touch-icon.png
-  schema_markup_about_img: /assets/img/about/about.jpg
+  schema_markup_about_img: /assets/img/about/aboutwash.webp
   schema_markup_default_meta_img: /assets/img/home/home-heading.jpg
   mobile_app: true
   android_mobile_app: true
