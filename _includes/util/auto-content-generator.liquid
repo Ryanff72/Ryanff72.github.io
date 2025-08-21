@@ -27,10 +27,6 @@
   {%- endcapture -%}
 {%-endif-%}
 
-{%- capture website_greeting_text -%}
-### {{ site.data.owner[lng].auto_content.greeting | default: site.data.lang[lng].constants.greetings }}
-{%- endcapture -%}
-
 {%- capture page_title_text -%}
 # {{ site.data.lang[lng][page.layout].title }}
 {%- endcapture -%}

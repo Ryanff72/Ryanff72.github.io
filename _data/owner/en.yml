@@ -5,7 +5,7 @@
 brand: "Ryan Feller"
 
 # text below the brand name
-brand_sub_text: "Computer Science & Mathematics"
+brand_sub_text: "CS & Math Student @ Purdue"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Ryan Feller"
@@ -23,7 +23,7 @@ about:
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
-copyright_start_year: "2024"
+copyright_start_year: "2025"
 
 # make sure creative_commons.enable is true in _data/conf/main.yml file
 creative_commons:

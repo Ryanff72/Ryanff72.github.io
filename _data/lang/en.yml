@@ -173,8 +173,8 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: ""  # Changed from " " to remove greeting
-  welcome: ""    # This was already empty
+  greetings: "" 
+  welcome: ""  
   sample: "
   <div class='welcome-container'>
     <div class='profile-section'>
