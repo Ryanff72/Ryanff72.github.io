@@ -15,7 +15,7 @@ img: ":nifchamber.jpg"
 #comments_disable: true
 
 # publish date
-date: 2024-08-20 20:44:03 +0900
+date: 2025-08-20 20:44:03 +0900
 
 # seo
 # if not specified, date will be used.
