@@ -55,7 +55,9 @@ I spent my summer working on embedded systems for the National Ignition Facility
 
 **Raspberry Pi evaluation for NIF control systems**  
 Assessed whether the Pi could handle real-time control in the National Ignition Facility. It could, and went way above the team's expectations.
+
 ![My Poster from the LLNL Poster Symposium](:pssec.png)
+
 **Controller migration from Windows XP Embedded to Linux**  
 Rewrote the Programmable Spatial Shaper controller in C++. The new version works as both an emulator and a functional embedded controller, maintaining hardware-accurate behavior in both modes. This is part of an effort to replace a controller that has been running on Windows XP Embedded since the 2000s.
 
