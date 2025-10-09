@@ -176,37 +176,146 @@ constants:
   greetings: "" 
   welcome: ""  
   sample: "
+<style>
+    .welcome-container {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    .intro {
+      margin-bottom: 50px;
+    }
+
+    .intro h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 12px;
+      color: #ffffff;
+    }
+
+    .intro p {
+      font-size: 1.1rem;
+      color: #a0a0a0;
+      line-height: 1.6;
+      margin-bottom: 8px;
+    }
+
+    .status {
+      display: inline-block;
+      padding: 6px 14px;
+      background: #1a2a1a;
+      border: 1px solid #2d4a2d;
+      border-radius: 20px;
+      font-size: 0.9rem;
+      color: #7dd87d;
+      margin-top: 16px;
+    }
+
+    .nav-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 16px;
+      margin-bottom: 40px;
+    }
+
+    .nav-button {
+      display: block;
+      padding: 24px 20px;
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 8px;
+      text-decoration: none;
+      color: #ffffff;
+      transition: all 0.2s ease;
+      text-align: left;
+    }
+
+    .nav-button:hover {
+      background: #222;
+      border-color: #3a3a3a;
+      transform: translateY(-2px);
+    }
+
+    .nav-button .title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 6px;
+      display: block;
+    }
+
+    .nav-button .desc {
+      font-size: 0.9rem;
+      color: #888;
+      display: block;
+    }
+
+    .connect {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .connect-link {
+      padding: 12px 24px;
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 6px;
+      text-decoration: none;
+      color: #e0e0e0;
+      font-size: 0.95rem;
+      transition: all 0.2s ease;
+    }
+
+    .connect-link:hover {
+      background: #222;
+      border-color: #3a3a3a;
+    }
+
+    @media (max-width: 600px) {
+      .intro h1 {
+        font-size: 2rem;
+      }
+      
+      .nav-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+
   <div class='welcome-container'>
-    <div class='profile-section'>
-      <h1>Hi, I'm Ryan Feller 👋</h1>
-      <h3>Computer Science & Mathematics @ Purdue University</h3>
-    </div>
-    <div class='section'>
-      <h3><span class='emoji'>🔭</span> Recent Endeavors</h3>
-      <ul>
-        <li>Embedded solutions using Raspberry Pi</li>
-        <li>Personal projects with Raspberry Pi</li>
-        <li>Full-stack development with C# and .NET</li>
-        <li>Computer vision projects</li>
-        <li>Game development in Unity</li>
-      </ul>
+    <div class='intro'>
+      <h1>Ryan Feller</h1>
+      <p>CS + Math @ Purdue. I build things with embedded systems, computer vision, and whatever else seems interesting.</p>
+      <p>Most recently: rewrote a laser controller for the National Ignition Facility at Lawrence Livermore.</p>
+      <span class='status'>Looking for Summer 2026 internships</span>
     </div>
 
-    <div class='section'>
-      <h3><span class='emoji'>🚀</span> Quick Links</h3>
-      <ul>
-        <li><a href='/tabs/projects.html'>View My Projects</a> - See what I've built</li>
-        <li><a href='/tabs/blog'>Professional Experience</a> - My work history</li>
-        <li><a href='https://github.com/Ryanff72'>GitHub</a> - Check out my code</li>
-      </ul>
+    <div class='nav-grid'>
+      <a href='/tabs/projects.html' class='nav-button'>
+        <span class='title'>Projects</span>
+        <span class='desc'>Water turrets, game jams, compilers</span>
+      </a>
+      
+      <a href='/tabs/blog' class='nav-button'>
+        <span class='title'>Experience</span>
+        <span class='desc'>LLNL, Matrix, research work</span>
+      </a>
+      
+      <a href='https://github.com/Ryanff72' class='nav-button'>
+        <span class='title'>GitHub</span>
+        <span class='desc'>Code and open source stuff</span>
+      </a>
+      
+      <a href='https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true' class='nav-button'>
+        <span class='title'>Resume</span>
+        <span class='desc'>The formal version</span>
+      </a>
     </div>
 
-    <div class='section'>
-      <h3><span class='emoji'>📫</span> Connect With Me</h3>
-      <ul>
-        <li><a href='https://www.linkedin.com/in/ryan-feller-86784b250/'>LinkedIn</a></li>
-        <li><a href='https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true'>Resume</a></li>
-      </ul>
+    <div class='connect'>
+      <a href='https://www.linkedin.com/in/ryan-feller-86784b250/' class='connect-link'>LinkedIn</a>
+      <a href='mailto:your.email@example.com' class='connect-link'>Email</a>
     </div>
   </div>
 "
