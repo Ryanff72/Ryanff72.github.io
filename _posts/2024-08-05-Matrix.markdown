@@ -44,14 +44,28 @@ date: 2024-08-05 20:21:03 +0900
 {%- include util/auto-content-generator.liquid -%}
 
 <!-- outline-start -->
+# Matrix Design Group
 
-**May 2024 - August 2024**\
-![The Matrix Logo](:matrixthumb.jpg)\
+**Computer Vision Engineer Intern** · May – August 2024
 
-- 📸 **Enhanced Object Detection** by exploring synthetic data training methods in C# with Unity, improving detection accuracy by 2% through practical experimentation.  
-- 🐍 **Developed Python Backend Tools** for data documentation, creating an efficient pipeline for video-to-high-quality, no-duplicate datasets to support data management needs.  
-- 💻 **Contributed to Full-Stack Development** on a .NET/C# desktop app, independently building a new feature with multiple subfeatures to meet project requirements.  
-- 🤝 **Learned from a Talented Team**, gaining valuable insights from Matrix’s skilled professionals while contributing meaningfully to company projects.
+![The Matrix Logo](:matrixthumb.jpg)
+
+Spent the summer building computer vision tools and infrastructure for a small engineering firm that does interesting work with CV object detection.
+
+## What I worked on
+
+**Synthetic data generation for CV training**  
+Experimented with generating synthetic training data in Unity (C#) to improve object detection models. Managed to bump the effective detection rate by 2% in an experimental setting.
+
+**Data pipeline infrastructure**  
+Built Python tools for training (via PyTorch), metadata documentation, and dataset reorganization. Integrated Voxel51 for image quality assurance and created a pipeline to transform video files into high-quality, deduplicated datasets. This streamlines dataset curation for the team.
+
+**Desktop application development**  
+Worked on the frontend and backend of a .NET/C# desktop app for data import, filtering, and visualization. Connected it to MySQL for storage and retrieval.
+
+## What I learned
+
+This was my first real exposure to computer vision in a production environment. Got to see how CV systems actually get deployed, not just trained in notebooks. The team was small enough that I could work on multiple projects.
 
 
 <!-- outline-end -->
