@@ -188,14 +188,14 @@ constants:
     }
 
     .intro h1 {
-      font-size: 2.5rem;
+      font-size: 3.5rem;
       font-weight: 700;
       margin-bottom: 12px;
       color: #ffffff;
     }
 
     .intro p {
-      font-size: 1.1rem;
+      font-size: 2.1rem;
       color: #a0a0a0;
       line-height: 1.6;
       margin-bottom: 8px;
@@ -207,7 +207,7 @@ constants:
       background: #1a2a1a;
       border: 1px solid #2d4a2d;
       border-radius: 20px;
-      font-size: 0.9rem;
+      font-size: 1.9rem;
       color: #7dd87d;
       margin-top: 16px;
     }
@@ -238,14 +238,14 @@ constants:
     }
 
     .nav-button .title {
-      font-size: 1.1rem;
+      font-size: 2.1rem;
       font-weight: 600;
       margin-bottom: 6px;
       display: block;
     }
 
     .nav-button .desc {
-      font-size: 0.9rem;
+      font-size: 1.9rem;
       color: #888;
       display: block;
     }
@@ -263,7 +263,7 @@ constants:
       border-radius: 6px;
       text-decoration: none;
       color: #e0e0e0;
-      font-size: 0.95rem;
+      font-size: 1.95rem;
       transition: all 0.2s ease;
     }
 
@@ -274,7 +274,7 @@ constants:
 
     @media (max-width: 600px) {
       .intro h1 {
-        font-size: 2rem;
+        font-size: 3rem;
       }
       
       .nav-grid {
@@ -286,20 +286,20 @@ constants:
   <div class='welcome-container'>
     <div class='intro'>
       <h1>Ryan Feller</h1>
-      <p>CS + Math @ Purdue. I build things with embedded systems, computer vision, and whatever else seems interesting.</p>
-      <p>Most recently: rewrote a laser controller for the National Ignition Facility at Lawrence Livermore.</p>
+      <p>CS + Math @ Purdue. I am interested in embedded systems, computer vision, gamedev, and more.</p>
+      <p>Most recently: Embedded Software Engineer for the National Ignition Facility at Lawrence Livermore National Laboratory.</p>
       <span class='status'>Looking for Summer 2026 internships</span>
     </div>
 
     <div class='nav-grid'>
       <a href='/tabs/projects.html' class='nav-button'>
         <span class='title'>Projects</span>
-        <span class='desc'>Water turrets, game jams, compilers</span>
+        <span class='desc'>Water turrets, game jams, and more</span>
       </a>
       
       <a href='/tabs/blog' class='nav-button'>
         <span class='title'>Experience</span>
-        <span class='desc'>LLNL, Matrix, research work</span>
+        <span class='desc'>LLNL, Matrix, and research</span>
       </a>
       
       <a href='https://github.com/Ryanff72' class='nav-button'>
@@ -309,13 +309,13 @@ constants:
       
       <a href='https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true' class='nav-button'>
         <span class='title'>Resume</span>
-        <span class='desc'>The formal version</span>
+        <span class='desc'>The formal version of all this</span>
       </a>
     </div>
 
     <div class='connect'>
       <a href='https://www.linkedin.com/in/ryan-feller-86784b250/' class='connect-link'>LinkedIn</a>
-      <a href='mailto:your.email@example.com' class='connect-link'>Email</a>
+      <a href='mailto:fellerr@purdue.edu' class='connect-link'>Email</a>
     </div>
   </div>
 "
