@@ -286,7 +286,7 @@ constants:
   <div class='welcome-container'>
     <div class='intro'>
       <h1>Welcome to my Portfolio</h1>
-      <p>CS + Math @ Purdue. I am interested in embedded systems, computer vision, gamedev, and more.</p>
+      <p>CS + Math @ Purdue. I am interested in embedded systems and software, computer vision, gamedev, and more.</p>
       <p>Most recently: Embedded Software Engineer for the National Ignition Facility at Lawrence Livermore National Laboratory.</p>
       <span class='status'>Looking for Summer 2026 internships</span>
     </div>
@@ -304,12 +304,12 @@ constants:
       
       <a href='https://github.com/Ryanff72' class='nav-button'>
         <span class='title'>GitHub</span>
-        <span class='desc'>Code and open source stuff</span>
+        <span class='desc'>Some of my code</span>
       </a>
       
       <a href='https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true' class='nav-button'>
         <span class='title'>Resume</span>
-        <span class='desc'>The formal version of all this</span>
+        <span class='desc'>The formal version of everything here!</span>
       </a>
     </div>
 
