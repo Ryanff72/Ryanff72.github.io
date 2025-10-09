@@ -44,14 +44,34 @@ date: 2025-01-03 22:29:03 +0900
 {%- include util/auto-content-generator.liquid -%}
 
 <!-- outline-start -->
-**January 2024 - May 2025**
+# HiFi Laboratory Research
 
-- 🔊 **Developed a Bioacoustic Analysis App** in Python, transitioning from an R-based version to create an accessible tool for calculating Acoustic Indices to monitor environmental health.  
-- 💰 **Received a Scholarship** in Spring 2025, working under Dr. Bellisario to support species migration tracking and Niches Land Trust’s conservation efforts in Northern Indiana.  
-- 🖼️ **Presented at Purdue’s Undergraduate Research Fair** in Spring 2024 and 2025, sharing my research through a poster and gathering feedback from diverse academic audiences.  
-![Me with My Research Poster](:hifi.jpeg)  
-- 🌱 **Supported Conservation Goals**, using full-stack Python skills to contribute to ecological research and land preservation initiatives.
+**Full Stack Python Software Engineer** · January 2024 – May 2025
+
+![Me with My Research Poster](:hifi.jpeg)
+
+Worked with Dr. Bellisario's lab building software tools for bioacoustic analysis—basically using sound recordings to measure environmental health and track species migration.
+
+## What I built
+
+**Acoustic Indices calculator**  
+Developed a Python app that calculates Acoustic Indices, which are metrics ecologists use to assess environmental health through soundscapes. This was the first citizen-accessible tool for these calculations—previous versions were R-based, slow, and not particularly user-friendly.
+
+The app supports conservation work by the Niches Land Trust in Northern Indiana, helping them monitor species migration patterns and ecosystem health.
+
+## Research presentations
+
+Presented my work at Purdue's Undergraduate Research Symposium in both Spring 2024 and Spring 2025. Got helpful feedback from people across different disciplines who were interested in the intersection of software and environmental conservation.
+
 ![Research Poster Close-Up](:hifiposter0.jpg)
+
+## Funding
+
+Received a research scholarship in Spring 2025 to continue development and support ongoing conservation efforts.
+
+## Why this mattered
+
+Environmental monitoring usually requires expensive equipment and specialized software. Making these tools more accessible means more people can contribute to conservation data collection.
 
 
 
