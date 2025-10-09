@@ -43,15 +43,31 @@ date: 2025-08-20 20:44:03 +0900
 {%- include util/auto-content-generator.liquid -%}
 
 <!-- outline-start -->
+# Lawrence Livermore National Laboratory
 
-**May 2025 - August 2025**
+**Embedded Software Engineer Intern** · May – August 2025
 
-![Lawrence Livermore National Laboratory Group Intern Photo](:llnlpeeps.jpg)\
+![Lawrence Livermore National Laboratory Group Intern Photo](:llnlpeeps.jpg)
 
-- 🚀 **Evaluated Raspberry Pi for Embedded Control** at the National Ignition Facility (NIF), contributing to the functionality of the world’s largest laser system supporting the US nuclear program.  
-- 💻 **Ported and Rewrote an Embedded Controller to Linux** using C++, enabling it to function as both an emulator and real controller, improving reliability and testability.  
-- 🛠️ **Created GitLab CI/CD Pipelines and JUnit/GTest Harnesses**, enhancing code quality and reliability for critical systems.  
-- 🐞 **Identified and Fixed an ARM-Specific Bug** in the NIF camera controller, resolving a long-standing (over a decade old!) issue with ARM systems to improve system performance.
+I spent my summer working on embedded systems for the National Ignition Facility—the world's largest laser system, which supports the US nuclear program.
+
+## What I worked on
+
+**Raspberry Pi evaluation for NIF control systems**  
+Assessed whether the Pi could handle real-time control in the National Ignition Facility. It could, and went way above the team's expectations.
+
+**Controller migration from Windows XP Embedded to Linux**  
+Rewrote the Programmable Spatial Shaper controller in C++. The new version works as both an emulator and a functional embedded controller, maintaining hardware-accurate behavior in both modes. This is part of an effort to replace a controller that has been running on Windows XP Embedded since the 2000s.
+
+**CI/CD and testing infrastructure**  
+Built GitLab pipelines with Docker and set up JUnit/GTest harnesses. Made the codebase more reliable and actually testable.
+
+**Bug hunting**  
+Found and fixed a Java bug in the NIF camera controller that only showed up on ARM architecture. The bug had been there for over a decade, unnoticed, because the system previously ran on x86.
+
+## Recognition
+
+Received 'Honorable Mention' at the lab's summer Poster Symposium (roughly top 5 out of all interns).
 
 
 
