@@ -188,14 +188,14 @@ constants:
     }
 
     .intro h1 {
-      font-size: 3.5rem;
+      font-size: 2.8rem;
       font-weight: 700;
       margin-bottom: 12px;
       color: #ffffff;
     }
 
     .intro p {
-      font-size: 2.1rem;
+      font-size: 1.6rem;
       color: #a0a0a0;
       line-height: 1.6;
       margin-bottom: 8px;
@@ -285,7 +285,7 @@ constants:
 
   <div class='welcome-container'>
     <div class='intro'>
-      <h1>Ryan Feller</h1>
+      <h1>Welcome to my Portfolio</h1>
       <p>CS + Math @ Purdue. I am interested in embedded systems, computer vision, gamedev, and more.</p>
       <p>Most recently: Embedded Software Engineer for the National Ignition Facility at Lawrence Livermore National Laboratory.</p>
       <span class='status'>Looking for Summer 2026 internships</span>
