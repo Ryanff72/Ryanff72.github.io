@@ -196,7 +196,7 @@ page_data:
     - type: id_programming
       project_name: "BTC-USD Market Microstructure Visualizer"
       project_excerpt: "Visualizer for order book depth, ask-bid spread, and paper trading."
-      img: ":microstructure.png"
+      img: ":orderbook.png"
       date: "2025-10-28"
       post: |
         # About
