@@ -193,19 +193,18 @@ page_data:
         ![The Turret Shooting](:turret-shooting.jpg)
         
         In the end, the turret worked well with a few small issues. Due to the (painfully) slow speed of the raspberry pi's processor, it took a long time for the turret to recognize where people were at. Despite the shortcomings, both the manually controlled and computer vision-powered versions were a lot of fun to work with, and I feel that I learned a lot while working on the project!    
-      - type: id_programming
+    - type: id_programming
       project_name: "BTC-USD Market Microstructure Visualizer"
       project_excerpt: "Visualizer for order book depth, ask-bid spread, and paper trading."
-      img: ":wiki_bio.jpg"
-      #img_title: "img title3"
-      date: "2024-07-14"
+      img: ":microstructure.png"
+      date: "2025-10-28"
       post: |
         # About
         ![A screenshot from the site](:microstructure.png)
         
         I created a cryptocurrency trading simulator processing live Coinbase market data to visualize order book depth, bid-ask spreads, and market microstructure!
         The site also allows paper trading with portfolio tracking. Next steps are to maintain user's portfolio value between sessions.
-        Here is a ![link](https://market-microstructure-visualizer-1.onrender.com/) to the project. Currently hosted with onrender.com, which has a very slow free tier. I would like to get it up and running on my raspberry pi with cloudfare soon.
+        Here is a [link](https://market-microstructure-visualizer-1.onrender.com/) to the project. Currently hosted with onrender.com, which has a very slow free tier. I would like to get it up and running on my raspberry pi with cloudfare soon.
      
     # quote
     - type: id_programming
