@@ -36,4 +36,4 @@ img: "/assets/img/about/about.jpg"
 #published: false
 ---
 
-A third-year student At Purdue University, studying Math and Computer Science. Looking forwards to meeting you! You can find my resume [here](https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true).
+A third-year student At Purdue University, studying Math and Computer Science. You can find my resume [here](https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true).
