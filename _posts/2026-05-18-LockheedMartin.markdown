@@ -11,7 +11,7 @@ category: auto generated
 # multiple tag entries are possible
 tags: [jekyll, sample]
 # thumbnail image for post
-#img: ":lockheedthumb.jpg"
+img: ":apache_arrowhead.jpg"
 # disable comments on this page
 #comments_disable: true
 
@@ -47,6 +47,8 @@ date: 2026-05-18 09:00:00 +0000
 # Lockheed Martin
 
 **Software Engineer Intern** · May – August 2026
+
+![The nose-mounted TADS/PNVS sensor turret on an AH-64 Apache](:apache_arrowhead.jpg)
 
 I'm currently spending the summer working on quality assurance and tooling for the Apache tracker algorithm.
 

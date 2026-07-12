@@ -178,13 +178,33 @@ constants:
   sample: "
 <style>
     .welcome-container {
-      max-width: 700px;
+      max-width: 760px;
       margin: 0 auto;
       padding: 40px 20px;
     }
 
     .intro {
+      position: relative;
       margin-bottom: 50px;
+      padding: 48px 40px;
+      border-radius: 14px;
+      overflow: hidden;
+      background:
+        linear-gradient(135deg, rgba(8, 12, 8, 0.94), rgba(8, 12, 8, 0.8)),
+        url('/assets/img/posts/apache_arrowhead.jpg');
+      background-size: cover;
+      background-position: center 35%;
+      border: 1px solid #2a2a2a;
+    }
+
+    .intro .eyebrow {
+      display: block;
+      font-size: 1.5rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #7dd87d;
+      margin-bottom: 14px;
     }
 
     .intro h1 {
@@ -196,9 +216,17 @@ constants:
 
     .intro p {
       font-size: 1.6rem;
-      color: #a0a0a0;
+      color: #c4c4c4;
       line-height: 1.6;
       margin-bottom: 8px;
+      max-width: 560px;
+    }
+
+    .status-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
     }
 
     .status {
@@ -209,7 +237,12 @@ constants:
       border-radius: 20px;
       font-size: 1.9rem;
       color: #7dd87d;
-      margin-top: 16px;
+    }
+
+    .status.secondary {
+      background: #1a1a1a;
+      border-color: #333;
+      color: #d0d0d0;
     }
 
     .nav-grid {
@@ -273,10 +306,14 @@ constants:
     }
 
     @media (max-width: 600px) {
-      .intro h1 {
-        font-size: 3rem;
+      .intro {
+        padding: 36px 24px;
       }
-      
+
+      .intro h1 {
+        font-size: 2.4rem;
+      }
+
       .nav-grid {
         grid-template-columns: 1fr;
       }
@@ -285,10 +322,14 @@ constants:
 
   <div class='welcome-container'>
     <div class='intro'>
+      <span class='eyebrow'>Defense &amp; National Security Software</span>
       <h1>Welcome to my Portfolio</h1>
-      <p>CS + Math @ Purdue. I am interested in embedded systems and software, computer vision, gamedev, and more.</p>
-      <p>Currently: Software Engineer Intern at Lockheed Martin, working on Apache tracker algorithm verification.</p>
-      <span class='status'>Senior at Purdue, seeking full-time roles starting Summer 2027</span>
+      <p>I'm a Software Engineer building mission-critical systems for the DoD and national laboratories — from Apache tracker verification tooling at Lockheed Martin to laser control systems at Lawrence Livermore National Laboratory.</p>
+      <p>CS + Math @ Purdue, with a background in embedded systems, computer vision, and hardware-software integration.</p>
+      <div class='status-row'>
+        <span class='status'>DoD Secret Clearance</span>
+        <span class='status secondary'>Senior @ Purdue — Seeking full-time roles Summer 2027</span>
+      </div>
     </div>
 
     <div class='nav-grid'>

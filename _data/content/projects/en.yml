@@ -198,9 +198,12 @@ page_data:
     - type: id_programming
       project_name: "Beret.live: Social Art Platform"
       project_excerpt: "A social platform for posting about, discovering, and reviewing artworks."
+      img: ":potato_eaters.png"
+      img_title: "An artwork detail page on Beret.live"
       date: "2026-05-01"
       post: |
         # About
+        ![An artwork detail page on Beret.live](:potato_eaters.png)
 
         Beret.live is a social art platform I developed for CS 307: Software Engineering at Purdue (Grade: A+), built with PostgreSQL, Express.js, TypeScript, and React.
 
