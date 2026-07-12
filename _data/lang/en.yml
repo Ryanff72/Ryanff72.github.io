@@ -197,16 +197,6 @@ constants:
       border: 1px solid #2a2a2a;
     }
 
-    .intro .eyebrow {
-      display: block;
-      font-size: 1.5rem;
-      font-weight: 600;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: #7dd87d;
-      margin-bottom: 14px;
-    }
-
     .intro h1 {
       font-size: 3rem;
       font-weight: 700;
@@ -322,10 +312,9 @@ constants:
 
   <div class='welcome-container'>
     <div class='intro'>
-      <span class='eyebrow'>Defense &amp; National Security Software</span>
       <h1>Welcome to my Portfolio</h1>
-      <p>I'm a Software Engineer building mission-critical systems for the DoD and national laboratories — from Apache tracker verification tooling at Lockheed Martin to laser control systems at Lawrence Livermore National Laboratory.</p>
-      <p>CS + Math @ Purdue, with a background in embedded systems, computer vision, and hardware-software integration.</p>
+      <p>Software engineer with hands-on experience at Lockheed Martin and Lawrence Livermore National Laboratory, spanning defense systems and national security research.</p>
+      <p>Purdue CS/Math Senior, seeking full-time roles starting Summer 2027.</p>
       <div class='status-row'>
         <span class='status'>DoD Secret Clearance</span>
         <span class='status secondary'>Senior @ Purdue — Seeking full-time roles Summer 2027</span>
