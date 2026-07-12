@@ -36,4 +36,31 @@ img: "/assets/img/about/about.jpg"
 #published: false
 ---
 
-A third-year student At Purdue University, studying Math and Computer Science. You can find my resume [here](https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true).
+A Software Engineer with hands-on experience at Lockheed Martin and Lawrence Livermore National Laboratory, spanning defense systems and national security research. Senior at Purdue University studying Computer Science and Math, based in West Lafayette, Indiana. Seeking full-time roles starting Summer 2027. You can find my resume [here](https://docs.google.com/document/d/1TsAbYsuPfoq8cWErlbV40pbTRDfJRB6F/edit?usp=sharing&ouid=108588783762304868177&rtpof=true&sd=true).
+
+## Clearance
+
+- DoD Secret Clearance
+
+## Education & Affiliations
+
+- Purdue University — Class of May 2027 (3.47 GPA)
+- Computer Science Major, Mathematics Major
+- Business Economics Minor
+- John Martinson Honors College at Purdue
+
+## Skills
+
+**Languages:** C++ · C# · C · Java · Shell Scripting · Python · MATLAB
+
+**Frameworks / Tools:** Docker · Jira · Google Test (GTest) · JUnit · Unity Game Engine · .NET · Yocto Linux
+
+**Systems / Embedded:** Linux · Unix · ARM · x86-64 · Raspberry Pi
+
+## Relevant Coursework
+
+**Computer Science:** Software Testing, Software Engineering I and II, Analysis of Algorithms, Data Structures and Algorithms, Systems Programming, Computer Architecture, Object Oriented Programming, Numerical Methods
+
+**Mathematics:** Complex Analysis, Honors Abstract Algebra, Honors Real Analysis, Linear Algebra (1+2), Ordinary Differential Equations, Statistics, Honors Calculus 3
+
+**Economics:** Microeconomics, Macroeconomics

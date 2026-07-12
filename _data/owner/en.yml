@@ -5,7 +5,7 @@
 brand: "Ryan Feller"
 
 # text below the brand name
-brand_sub_text: "CS & Math Student @ Purdue"
+brand_sub_text: "CS & Math Senior @ Purdue"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Ryan Feller"
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "Computer Science & Mathematics Student at Purdue University"
+  sub_title: "Computer Science & Mathematics Senior at Purdue University"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.

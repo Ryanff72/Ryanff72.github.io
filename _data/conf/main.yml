@@ -59,7 +59,7 @@ greetings_replace: "Greetings"
 welcome_replace: "$site_welcome"
 
 # replace text with data.lang[language].constants.sample
-sample_replace: "Third year student at Purdue, class of Spring 2027. "
+sample_replace: "Senior at Purdue, class of May 2027. "
 
 ###########################################################
 #                Search

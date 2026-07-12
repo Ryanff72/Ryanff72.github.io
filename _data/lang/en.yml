@@ -287,8 +287,8 @@ constants:
     <div class='intro'>
       <h1>Welcome to my Portfolio</h1>
       <p>CS + Math @ Purdue. I am interested in embedded systems and software, computer vision, gamedev, and more.</p>
-      <p>Most recently: Embedded Software Engineer for the National Ignition Facility at Lawrence Livermore National Laboratory.</p>
-      <span class='status'>Looking for Summer 2026 internships</span>
+      <p>Currently: Software Engineer Intern at Lockheed Martin, working on Apache tracker algorithm verification.</p>
+      <span class='status'>Senior at Purdue, seeking full-time roles starting Summer 2027</span>
     </div>
 
     <div class='nav-grid'>
@@ -296,10 +296,10 @@ constants:
         <span class='title'>Projects</span>
         <span class='desc'>Water turrets, game jams, and more</span>
       </a>
-      
+
       <a href='/tabs/blog' class='nav-button'>
         <span class='title'>Experience</span>
-        <span class='desc'>LLNL, Matrix, and research</span>
+        <span class='desc'>Lockheed Martin, LLNL, Matrix, and research</span>
       </a>
       
       <a href='https://github.com/Ryanff72' class='nav-button'>
@@ -315,7 +315,7 @@ constants:
 
     <div class='connect'>
       <a href='https://www.linkedin.com/in/ryan-feller-b66783220/' class='connect-link'>LinkedIn</a>
-      <a href='mailto:fellerr@purdue.edu' class='connect-link'>Email</a>
+      <a href='mailto:ryanff72@gmail.com' class='connect-link'>Email</a>
     </div>
   </div>
 "
