@@ -50,17 +50,10 @@ date: 2026-05-18 09:00:00 +0000
 
 ![The nose-mounted TADS/PNVS sensor turret on an AH-64 Apache](:apache_arrowhead.jpg)
 
-I'm currently spending the summer working on quality assurance and tooling for the Apache tracker algorithm.
+I'm on the software team for Apache avionics at Lockheed Martin, working on quality assurance and tooling for the Apache tracker algorithm.
 
-## What I'm working on
-
-**IMU integration for tracker verification**
-Integrated an IMU into a quality assurance setup used for critical verification of the Apache tracker algorithm.
-
-**Video playback and analysis tool**
-Built a tool to visualize tracker data from a custom binary format, with synchronized playback, giving engineers a fast way to diagnose tracker algorithm behavior during testing and live demos.
-
-**FPGA peek/poke tool**
-Developed a modular internal FPGA peek/poke tool in C++ to enable direct, register-level read/write access, streamlining hardware debugging and validation for embedded engineers.
+- Integrated an IMU into a quality assurance setup for critical verification of the Apache tracker algorithm.
+- Built a video playback and analysis tool to visualize tracker data from a custom binary format with synchronized playback, providing engineers a fast way to diagnose tracker algorithm behavior during testing and live demos.
+- Developed a modular internal FPGA peek/poke tool in C++ to enable direct, register-level read/write access, streamlining hardware debugging and validation for embedded engineers.
 
 <!-- outline-end -->
