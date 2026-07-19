@@ -50,7 +50,7 @@ date: 2026-05-18 09:00:00 +0000
 
 ![The nose-mounted TADS/PNVS sensor turret on an AH-64 Apache](:apache_arrowhead.jpg)
 
-I'm on the software team for Apache avionics at Lockheed Martin, working on quality assurance and tooling for the Apache tracker algorithm.
+I was on the software team for Apache avionics at Lockheed Martin. Here's what I accomplished:
 
 - Integrated an IMU into a quality assurance setup for critical verification of the Apache tracker algorithm.
 - Built a video playback and analysis tool to visualize tracker data from a custom binary format with synchronized playback, providing engineers a fast way to diagnose tracker algorithm behavior during testing and live demos.
